@@ -43,7 +43,7 @@ Bộ luật này quy định về tội phạm và hình phạt.
 của Bộ luật này
 mới phải chịu trách nhiệm hình sự.
 Điều 3. Nguyên tắc xử lý
-718 bản án áp dụng
+719 bản án áp dụng
 1. Đối với người phạm tội:
 a) Mọi hành vi phạm tội do người thực hiện phải được phát hiện kịp thời, xử lý nhanh chóng, công minh theo đúng pháp luật;
 b) Mọi người phạm tội đều bình đẳng trước pháp luật, không phân biệt giới tính, dân tộc, tín ngưỡng, tôn giáo, thành phần, địa vị xã hội;
@@ -79,7 +79,7 @@ Quy định này cũng được áp dụng đối với người không quốc t
 2. Người nước ngoài, pháp nhân thương mại nước ngoài phạm tội ở ngoài lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam có thể bị truy cứu trách nhiệm hình sự theo quy định của Bộ luật này trong trường hợp hành vi phạm tội xâm hại quyền, lợi ích hợp pháp của công dân Việt Nam hoặc xâm hại lợi ích của nước Cộng hòa xã hội chủ nghĩa Việt Nam hoặc theo quy định của điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
 3. Đối với hành vi phạm tội hoặc hậu quả của hành vi phạm tội xảy ra trên tàu bay, tàu biển không mang quốc tịch Việt Nam đang ở tại biển cả hoặc tại giới hạn vùng trời nằm ngoài lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam, thì người phạm tội có thể bị truy cứu trách nhiệm hình sự theo quy định của Bộ luật này trong trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định.
 Điều 7. Hiệu lực của Bộ luật hình sự về thời gian
-4.585 bản án áp dụng
+4.587 bản án áp dụng
 1. Điều luật được áp dụng đối với một hành vi phạm tội là điều luật đang có hiệu lực thi hành tại thời điểm mà hành vi phạm tội được thực hiện.
 2. Điều luật quy định một tội phạm mới, một hình phạt nặng hơn, một tình tiết tăng nặng mới hoặc hạn chế phạm vi áp dụng án treo, miễn trách nhiệm hình sự, loại trừ trách nhiệm hình sự, miễn hình phạt, giảm hình phạt, xóa án tích và quy định khác không có lợi cho người phạm tội, thì không được áp dụng đối với hành vi phạm tội đã thực hiện trước khi điều luật đó có hiệu lực thi hành.
 3. Điều luật xóa bỏ một tội phạm, một hình phạt, một tình tiết tăng nặng, quy định một hình phạt nhẹ hơn, một tình tiết giảm nhẹ mới hoặc mở rộng phạm vi áp dụng án treo, miễn trách nhiệm hình sự, loại trừ trách nhiệm hình sự, miễn hình phạt, giảm hình phạt, tha tù trước thời hạn có điều kiện, xóa án tích và quy định khác có lợi cho người phạm tội, thì được áp dụng đối với hành vi phạm tội đã thực hiện trước khi điều luật đó có hiệu lực thi hành.
@@ -87,11 +87,11 @@ Chương III
 
 TỘI PHẠM
 Điều 8. Khái niệm tội phạm
-213 bản án áp dụng
+214 bản án áp dụng
 1. Tội phạm là hành vi nguy hiểm cho xã hội được quy định trong Bộ luật hình sự, do người có năng lực trách nhiệm hình sự hoặc pháp nhân thương mại thực hiện một cách cố ý hoặc vô ý, xâm phạm độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ Tổ quốc, xâm phạm chế độ chính trị, chế độ kinh tế, nền văn hóa, quốc phòng, an ninh, trật tự, an toàn xã hội, quyền, lợi ích hợp pháp của tổ chức, xâm phạm quyền con người, quyền, lợi ích hợp pháp của công dân, xâm phạm những lĩnh vực khác của trật tự pháp luật xã hội chủ nghĩa mà theo quy định của Bộ luật này phải bị xử lý hình sự.
 2. Những hành vi tuy có dấu hiệu của tội phạm nhưng tính chất nguy hiểm cho xã hội không đáng kể thì không phải là tội phạm và được xử lý bằng các biện pháp khác.
 Điều 9. Phân loại tội phạm
-971 bản án áp dụng
+972 bản án áp dụng
 1. Căn cứ vào tính chất và mức độ nguy hiểm cho xã hội của hành vi phạm tội được quy định trong Bộ luật này, tội phạm được phân thành 04 loại sau đây:
 a) Tội phạm ít nghiêm trọng là tội phạm có tính chất và mức độ nguy hiểm cho xã hội không lớn mà mức cao nhất của khung hình phạt do Bộ luật này quy định đối với tội ấy là phạt tiền, phạt cải tạo không giam giữ hoặc phạt tù đến 03 năm;
 b) Tội phạm nghiêm trọng là tội phạm có tính chất và mức độ nguy hiểm cho xã hội lớn mà mức cao nhất của khung hình phạt do Bộ luật này quy định đối với tội ấy là từ trên 03 năm tù đến 07 năm tù;
@@ -109,7 +109,7 @@ Vô ý phạm tội là phạm tội trong những trường hợp sau đây:
 1. Người phạm tội tuy thấy trước hành vi của mình có thể gây ra hậu quả nguy hại cho xã hội nhưng cho rằng hậu quả đó sẽ không xảy ra hoặc có thể ngăn ngừa được.
 2. Người phạm tội không thấy trước hành vi của mình có thể gây ra hậu quả nguy hại cho xã hội, mặc dù phải thấy trước và có thể thấy trước hậu quả đó.
 Điều 12. Tuổi chịu trách nhiệm hình sự
-1.499 bản án áp dụng
+1.502 bản án áp dụng
 1. Người từ đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật này có quy định khác.
 2. Người từ đủ 14 tuổi đến dưới 16 tuổi phải chịu trách nhiệm hình sự về tội phạm rất nghiêm trọng, tội phạm đặc biệt nghiêm trọng quy định tại một trong các điều 123, 134, 141, 142, 143, 144, 150, 151, 168, 169, 170, 171, 173, 178, 248, 249, 250, 251, 252, 265, 266, 286, 287, 289, 290, 299, 303 và 304 của Bộ luật này.
 Điều 13. Phạm tội do dùng rượu, bia hoặc chất kích thích mạnh khác
@@ -121,13 +121,13 @@ Người phạm tội trong tình trạng mất khả năng nhận thức hoặc
 2. Người chuẩn bị phạm tội quy định tại một trong các điều 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 123, 134, 168, 169, 207, 299, 300, 301, 302, 303 và 324 của Bộ luật này thì phải chịu trách nhiệm hình sự.
 3. Người từ đủ 14 tuổi đến dưới 16 tuổi chuẩn bị phạm tội quy định tại Điều 123, Điều 168 của Bộ luật này thì phải chịu trách nhiệm hình sự.
 Điều 15. Phạm tội chưa đạt
-3.239 bản án áp dụng
+3.240 bản án áp dụng
 Phạm tội chưa đạt là cố ý thực hiện tội phạm nhưng không thực hiện được đến cùng vì những nguyên nhân ngoài ý muốn của người phạm tội. Người phạm tội chưa đạt phải chịu trách nhiệm hình sự về tội phạm chưa đạt.
 Điều 16. Tự ý nửa chừng chấm dứt việc phạm tội
 46 bản án áp dụng
 Tự ý nửa chừng chấm dứt việc phạm tội là tự mình không thực hiện tội phạm đến cùng, tuy không có gì ngăn cản. Người tự ý nửa chừng chấm dứt việc phạm tội được miễn trách nhiệm hình sự về tội định phạm; nếu hành vi thực tế đã thực hiện có đủ yếu tố cấu thành của một tội khác, thì người đó phải chịu trách nhiệm hình sự về tội này.
 Điều 17. Đồng phạm
-29.763 bản án áp dụng
+29.800 bản án áp dụng
 1. Đồng phạm là trường hợp có hai người trở lên cố ý cùng thực hiện một tội phạm.
 2. Phạm tội có tổ chức là hình thức đồng phạm có sự câu kết chặt chẽ giữa những người cùng thực hiện tội phạm.
 3. Người đồng phạm bao gồm người tổ chức, người thực hành, người xúi giục, người giúp sức. Người thực hành là người trực tiếp thực hiện tội phạm. Người tổ chức là người chủ mưu, cầm đầu, chỉ huy việc thực hiện tội phạm. Người xúi giục là người kích động, dụ dỗ, thúc đẩy người khác thực hiện tội phạm. Người giúp sức là người tạo điều kiện tinh thần hoặc vật chất cho việc thực hiện tội phạm.
@@ -233,7 +233,7 @@ Hình phạt là biện pháp cưỡng chế nghiêm khắc nhất của Nhà n�
 428 bản án áp dụng
 Hình phạt không chỉ nhằm trừng trị người, pháp nhân thương mại phạm tội mà còn giáo dục họ ý thức tuân theo pháp luật và các quy tắc của cuộc sống, ngăn ngừa họ phạm tội mới; giáo dục người, pháp nhân thương mại khác tôn trọng pháp luật, phòng ngừa và đấu tranh chống tội phạm.
 Điều 32. Các hình phạt đối với người phạm tội
-1.795 bản án áp dụng
+1.796 bản án áp dụng
 1. Hình phạt chính bao gồm:
 a) Cảnh cáo;
 b) Phạt tiền;
@@ -252,7 +252,7 @@ e) Phạt tiền, khi không áp dụng là hình phạt chính;
 g) Trục xuất, khi không áp dụng là hình phạt chính.
 3. Đối với mỗi tội phạm, người phạm tội chỉ bị áp dụng một hình phạt chính và có thể bị áp dụng một hoặc một số hình phạt bổ sung.
 Điều 33. Các hình phạt đối với pháp nhân thương mại phạm tội
-3.644 bản án áp dụng
+3.645 bản án áp dụng
 1. Hình phạt chính bao gồm:
 a) Phạt tiền;
 b) Đình chỉ hoạt động có thời hạn;
@@ -266,7 +266,7 @@ c) Phạt tiền, khi không áp dụng là hình phạt chính.
 130 bản án áp dụng
 Cảnh cáo được áp dụng đối với người phạm tội ít nghiêm trọng và có nhiều tình tiết giảm nhẹ, nhưng chưa đến mức miễn hình phạt.
 Điều 35. Phạt tiền
-11.905 bản án áp dụng
+11.910 bản án áp dụng
 1. Phạt tiền được áp dụng là hình phạt chính đối với các trường hợp sau đây:
 a) Người phạm tội ít nghiêm trọng, phạm tội nghiêm trọng do Bộ luật này quy định;
 b) Người phạm tội rất nghiêm trọng xâm phạm trật tự quản lý kinh tế, môi trường, trật tự công cộng, an toàn công cộng và một số tội phạm khác do Bộ luật này quy định.
@@ -276,7 +276,7 @@ b) Người phạm tội rất nghiêm trọng xâm phạm trật tự quản l�
 của Bộ luật này
 .
 Điều 36. Cải tạo không giam giữ
-11.109 bản án áp dụng
+11.114 bản án áp dụng
 1. Cải tạo không giam giữ được áp dụng từ 06 tháng đến 03 năm đối với người phạm tội ít nghiêm trọng, phạm tội nghiêm trọng do Bộ luật này quy định mà đang có nơi làm việc ổn định hoặc có nơi cư trú rõ ràng nếu xét thấy không cần thiết phải cách ly người phạm tội khỏi xã hội.
 Nếu người bị kết án đã bị tạm giữ, tạm giam thì thời gian tạm giữ, tạm giam được trừ vào thời gian chấp hành hình phạt cải tạo không giam giữ, cứ 01 ngày tạm giữ, tạm giam bằng 03 ngày cải tạo không giam giữ.
 2. Tòa án giao người bị phạt cải tạo không giam giữ cho cơ quan, tổ chức nơi người đó làm việc, học tập hoặc Ủy ban nhân dân cấp xã nơi người đó cư trú để giám sát, giáo dục. Gia đình người bị kết án có trách nhiệm phối hợp với cơ quan, tổ chức hoặc Ủy ban nhân dân cấp xã trong việc giám sát, giáo dục người đó.
@@ -292,16 +292,16 @@ Luật thi hành án hình sự
 Trục xuất là buộc người nước ngoài bị kết án phải rời khỏi lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 Trục xuất được Tòa án áp dụng là hình phạt chính hoặc hình phạt bổ sung trong từng trường hợp cụ thể.
 Điều 38. Tù có thời hạn
-160.742 bản án áp dụng
+160.939 bản án áp dụng
 1. Tù có thời hạn là buộc người bị kết án phải chấp hành hình phạt tại cơ sở giam giữ trong một thời hạn nhất định.
 Tù có thời hạn đối với người phạm một tội có mức tối thiểu là 03 tháng và mức tối đa là 20 năm.
 Thời gian tạm giữ, tạm giam được trừ vào thời hạn chấp hành hình phạt tù, cứ 01 ngày tạm giữ, tạm giam bằng 01 ngày tù.
 2. Không áp dụng hình phạt tù có thời hạn đối với người lần đầu phạm tội ít nghiêm trọng do vô ý và có nơi cư trú rõ ràng.
 Điều 39. Tù chung thân
-1.214 bản án áp dụng
+1.216 bản án áp dụng
 Tù chung thân là hình phạt tù không thời hạn được áp dụng đối với người phạm tội đặc biệt nghiêm trọng, nhưng chưa đến mức bị xử phạt tử hình. Không áp dụng hình phạt tù chung thân đối với người dưới 18 tuổi phạm tội.
 Điều 40. Tử hình
-889 bản án áp dụng
+890 bản án áp dụng
 1. Tử hình là hình phạt đặc biệt chỉ áp dụng đối với người phạm tội đặc biệt nghiêm trọng thuộc một trong nhóm các tội xâm phạm an ninh quốc gia, xâm phạm tính mạng con người, các tội phạm về ma túy, tham nhũng và một số tội phạm đặc biệt nghiêm trọng khác do Bộ luật này quy định.
 2. Không áp dụng hình phạt tử hình đối với người dưới 18 tuổi khi phạm tội, phụ nữ có thai, phụ nữ đang nuôi con dưới 36 tháng tuổi hoặc người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử.
 Sửa đổi bởi 86/2025/QH15 · hiệu lực 01/07/2025
@@ -343,7 +343,7 @@ Chương VII
 
 CÁC BIỆN PHÁP TƯ PHÁP
 Điều 46. Các biện pháp tư pháp
-34.189 bản án áp dụng
+34.228 bản án áp dụng
 1. Biện pháp tư pháp đối với người phạm tội bao gồm:
 a) Tịch thu vật, tiền trực tiếp liên quan đến tội phạm;
 b) Trả lại tài sản, sửa chữa hoặc bồi thường thiệt hại; buộc công khai xin lỗi;
@@ -354,7 +354,7 @@ b) Trả lại tài sản, sửa chữa hoặc bồi thường thiệt hại; bu
 c) Khôi phục lại tình trạng ban đầu;
 d) Thực hiện một số biện pháp nhằm khắc phục, ngăn chặn hậu quả tiếp tục xảy ra.
 Điều 47. Tịch thu vật, tiền trực tiếp liên quan đến tội phạm
-170.052 bản án áp dụng
+170.217 bản án áp dụng
 1. Việc tịch thu sung vào ngân sách nhà nước hoặc tịch thu tiêu hủy được áp dụng đối với:
 a) Công cụ, phương tiện dùng vào việc phạm tội;
 b) Vật hoặc tiền do phạm tội hoặc do mua bán, đổi chác những thứ ấy mà có; khoản thu lợi bất chính từ việc phạm tội;
@@ -362,7 +362,7 @@ c) Vật thuộc loại Nhà nước cấm tàng trữ, cấm lưu hành.
 2. Đối với vật, tiền bị người phạm tội chiếm đoạt hoặc sử dụng trái phép, thì không tịch thu mà trả lại cho chủ sở hữu hoặc người quản lý hợp pháp.
 3. Vật, tiền là tài sản của người khác, nếu người này có lỗi trong việc để cho người phạm tội sử dụng vào việc thực hiện tội phạm, thì có thể bị tịch thu.
 Điều 48. Trả lại tài sản, sửa chữa hoặc bồi thường thiệt hại; buộc công khai xin lỗi
-32.468 bản án áp dụng
+32.491 bản án áp dụng
 1. Người phạm tội phải trả lại tài sản đã chiếm đoạt cho chủ sở hữu hoặc người quản lý hợp pháp, phải sửa chữa hoặc bồi thường thiệt hại vật chất đã được xác định do hành vi phạm tội gây ra.
 2. Trong trường hợp phạm tội gây thiệt hại về tinh thần, Tòa án buộc người phạm tội phải bồi thường về vật chất, công khai xin lỗi người bị hại.
 Điều 49. Bắt buộc chữa bệnh
@@ -379,13 +379,13 @@ Thời gian bắt buộc chữa bệnh được trừ vào thời hạn chấp h
 
 QUY ĐỊNH CHUNG VỀ QUYẾT ĐỊNH HÌNH PHẠT
 Điều 50. Căn cứ quyết định hình phạt
-29.370 bản án áp dụng
+29.400 bản án áp dụng
 1. Khi quyết định hình phạt, Tòa án căn cứ vào quy định của Bộ luật này, cân nhắc tính chất và mức độ nguy hiểm cho xã hội của hành vi phạm tội, nhân thân người phạm tội, các tình tiết giảm nhẹ và tăng nặng trách nhiệm hình sự.
 2. Khi quyết định áp dụng hình phạt tiền, ngoài căn cứ quy định tại
 khoản 1 Điều này
 , Tòa án căn cứ vào tình hình tài sản, khả năng thi hành của người phạm tội.
 Điều 51. Các tình tiết giảm nhẹ trách nhiệm hình sự
-296.924 bản án áp dụng
+297.177 bản án áp dụng
 1. Các tình tiết sau đây là tình tiết giảm nhẹ trách nhiệm hình sự:
 a) Người phạm tội đã ngăn chặn hoặc làm giảm bớt tác hại của tội phạm;
 b) Người phạm tội tự nguyện sửa chữa, bồi thường thiệt hại hoặc khắc phục hậu quả;
@@ -412,7 +412,7 @@ x) Người phạm tội là người có công với cách mạng hoặc là ch
 2. Khi quyết định hình phạt, Tòa án có thể coi đầu thú hoặc tình tiết khác là tình tiết giảm nhẹ, nhưng phải ghi rõ lý do giảm nhẹ trong bản án.
 3. Các tình tiết giảm nhẹ đã được Bộ luật này quy định là dấu hiệu định tội hoặc định khung thì không được coi là tình tiết giảm nhẹ trong khi quyết định hình phạt.
 Điều 52. Các tình tiết tăng nặng trách nhiệm hình sự
-90.001 bản án áp dụng
+90.099 bản án áp dụng
 1. Chỉ các tình tiết sau đây mới là tình tiết tăng nặng trách nhiệm hình sự:
 a) Phạm tội có tổ chức;
 b) Phạm tội có tính chất chuyên nghiệp;
@@ -431,7 +431,7 @@ o) Xúi giục người dưới 18 tuổi phạm tội;
 p) Có hành động xảo quyệt hoặc hung hãn nhằm trốn tránh hoặc che giấu tội phạm.
 2. Các tình tiết đã được Bộ luật này quy định là dấu hiệu định tội hoặc định khung hình phạt thì không được coi là tình tiết tăng nặng.
 Điều 53. Tái phạm, tái phạm nguy hiểm
-4.105 bản án áp dụng
+4.108 bản án áp dụng
 1. Tái phạm là trường hợp đã bị kết án, chưa được xóa án tích mà lại thực hiện hành vi phạm tội do cố ý hoặc thực hiện hành vi phạm tội về tội phạm rất nghiêm trọng, tội phạm đặc biệt nghiêm trọng do vô ý.
 2. Những trường hợp sau đây được coi là tái phạm nguy hiểm:
 a) Đã bị kết án về tội phạm rất nghiêm trọng, tội phạm đặc biệt nghiêm trọng do cố ý, chưa được xóa án tích mà lại thực hiện hành vi phạm tội về tội phạm rất nghiêm trọng, tội phạm đặc biệt nghiêm trọng do cố ý;
@@ -439,7 +439,7 @@ b) Đã tái phạm, chưa được xóa án tích mà lại thực hiện hành
 
 QUYẾT ĐỊNH HÌNH PHẠT TRONG CÁC TRƯỜNG HỢP CỤ THỂ
 Điều 54. Quyết định hình phạt dưới mức thấp nhất của khung hình phạt được áp dụng
-33.257 bản án áp dụng
+33.274 bản án áp dụng
 1. Tòa án có thể quyết định một hình phạt dưới mức thấp nhất của khung hình phạt được áp dụng nhưng phải trong khung hình phạt liền kề nhẹ hơn của điều luật khi người phạm tội có ít nhất hai tình tiết giảm nhẹ quy định tại
 khoản 1 Điều 51
 của Bộ luật này
@@ -447,7 +447,7 @@ của Bộ luật này
 2. Tòa án có thể quyết định một hình phạt dưới mức thấp nhất của khung hình phạt được áp dụng nhưng không bắt buộc phải trong khung hình phạt liền kề nhẹ hơn của điều luật đối với người phạm tội lần đầu là người giúp sức trong vụ án đồng phạm nhưng có vai trò không đáng kể.
 3. Trong trường hợp có đủ các điều kiện quy định tại khoản 1 hoặc khoản 2 Điều này nhưng điều luật chỉ có một khung hình phạt hoặc khung hình phạt đó là khung hình phạt nhẹ nhất, thì Tòa án có thể quyết định hình phạt dưới mức thấp nhất của khung hình phạt hoặc chuyển sang một hình phạt khác thuộc loại nhẹ hơn. Lý do của việc giảm nhẹ phải được ghi rõ trong bản án.
 Điều 55. Quyết định hình phạt trong trường hợp phạm nhiều tội
-14.586 bản án áp dụng
+14.618 bản án áp dụng
 Khi xét xử cùng 01 lần một người phạm nhiều tội, Tòa án quyết định hình phạt đối với từng tội và tổng hợp hình phạt theo quy định sau đây:
 1. Đối với hình phạt chính:
 a) Nếu các hình phạt đã tuyên cùng là cải tạo không giam giữ hoặc cùng là tù có thời hạn, thì các hình phạt đó được cộng lại thành hình phạt chung; hình phạt chung không được vượt quá 03 năm đối với hình phạt cải tạo không giam giữ, 30 năm đối với hình phạt tù có thời hạn;
@@ -462,7 +462,7 @@ e) Trục xuất không tổng hợp với các loại hình phạt khác;
 a) Nếu các hình phạt đã tuyên là cùng loại thì hình phạt chung được quyết định trong giới hạn do Bộ luật này quy định đối với loại hình phạt đó; riêng đối với hình phạt tiền thì các khoản tiền phạt được cộng lại thành hình phạt chung;
 b) Nếu các hình phạt đã tuyên là khác loại thì người bị kết án phải chấp hành tất cả các hình phạt đã tuyên.
 Điều 56. Tổng hợp hình phạt của nhiều bản án
-18.512 bản án áp dụng
+18.539 bản án áp dụng
 1. Trong trường hợp một người đang phải chấp hành một bản án mà lại bị xét xử về tội đã phạm trước khi có bản án này, thì Tòa án quyết định hình phạt đối với tội đang bị xét xử, sau đó quyết định hình phạt chung theo quy định tại
 của Bộ luật này
 .
@@ -474,12 +474,12 @@ của Bộ luật này
 khoản 1 và khoản 2 Điều này
 .
 Điều 57. Quyết định hình phạt trong trường hợp chuẩn bị phạm tội, phạm tội chưa đạt
-3.838 bản án áp dụng
+3.839 bản án áp dụng
 1. Đối với hành vi chuẩn bị phạm tội và hành vi phạm tội chưa đạt, hình phạt được quyết định theo các điều của Bộ luật này về các tội phạm tương ứng tùy theo tính chất, mức độ nguy hiểm cho xã hội của hành vi, mức độ thực hiện ý định phạm tội và những tình tiết khác khiến cho tội phạm không thực hiện được đến cùng.
 2. Đối với trường hợp chuẩn bị phạm tội, hình phạt được quyết định trong phạm vi khung hình phạt được quy định trong các điều luật cụ thể.
 3. Đối với trường hợp phạm tội chưa đạt, nếu điều luật được áp dụng có quy định hình phạt cao nhất là tù chung thân hoặc tử hình thì áp dụng hình phạt tù không quá 20 năm; nếu là tù có thời hạn thì mức hình phạt không quá ba phần tư mức phạt tù mà điều luật quy định.
 Điều 58. Quyết định hình phạt trong trường hợp đồng phạm
-39.084 bản án áp dụng
+39.130 bản án áp dụng
 Khi quyết định hình phạt đối với những người đồng phạm, Tòa án phải xét đến tính chất của đồng phạm, tính chất và mức độ tham gia phạm tội của từng người đồng phạm.
 Các tình tiết giảm nhẹ, tăng nặng hoặc loại trừ trách nhiệm hình sự thuộc người đồng phạm nào, thì chỉ áp dụng đối với người đó.
 Điều 59. Miễn hình phạt
@@ -545,7 +545,7 @@ Người bị kết án có lý do đáng được khoan hồng thêm như đã 
 của Bộ luật này
 .
 Điều 65. Án treo
-57.224 bản án áp dụng
+57.272 bản án áp dụng
 1. Khi xử phạt tù không quá 03 năm, căn cứ vào nhân thân của người phạm tội và các tình tiết giảm nhẹ, nếu xét thấy không cần phải bắt chấp hành hình phạt tù, thì Tòa án cho hưởng án treo và ấn định thời gian thử thách từ 01 năm đến 05 năm và thực hiện các nghĩa vụ trong thời gian thử thách theo quy định của
 Luật thi hành án hình sự
 .
@@ -612,7 +612,7 @@ của Bộ luật này
 . Người được xóa án tích coi như chưa bị kết án.
 2. Người bị kết án do lỗi vô ý về tội phạm ít nghiêm trọng, tội phạm nghiêm trọng và người được miễn hình phạt không bị coi là có án tích.
 Điều 70. Đương nhiên được xóa án tích
-1.647 bản án áp dụng
+1.648 bản án áp dụng
 1. Đương nhiên được xóa án tích được áp dụng đối với người bị kết án không phải về các tội quy định tại Chương XIII và Chương XXVI của Bộ luật này khi họ đã chấp hành xong hình phạt chính, thời gian thử thách án treo hoặc hết thời hiệu thi hành bản án và đáp ứng các điều kiện quy định tại
 khoản 2 và khoản 3 Điều này
 .
@@ -923,7 +923,7 @@ khoản 1 Điều này
 ;
 b) Nếu mức hình phạt Tòa án tuyên đối với tội được thực hiện khi người đó đã đủ 18 tuổi nặng hơn mức hình phạt áp dụng đối với tội thực hiện khi người đó chưa đủ 18 tuổi thì hình phạt chung áp dụng như đối với người đủ 18 tuổi trở lên phạm tội.
 Điều 104. Tổng hợp hình phạt của nhiều bản án
-3.193 bản án áp dụng
+3.194 bản án áp dụng
 Việc tổng hợp hình phạt trong trường hợp một người đang phải chấp hành một bản án mà lại bị xét xử về tội đã phạm trước hoặc sau khi có bản án này, được thực hiện theo quy định tại
 và
 của Bộ luật này
@@ -936,7 +936,7 @@ của Bộ luật này
 2. Người dưới 18 tuổi phạm tội bị phạt cải tạo không giam giữ hoặc phạt tù, nếu lập công hoặc mắc bệnh hiểm nghèo, thì được xét giảm ngay và có thể được miễn chấp hành phần hình phạt còn lại.
 3. Người dưới 18 tuổi phạm tội bị phạt tiền nhưng bị lâm vào hoàn cảnh kinh tế đặc biệt khó khăn kéo dài do thiên tai, hỏa hoạn, tai nạn hoặc ốm đau gây ra hoặc lập công lớn, thì theo đề nghị của Viện trưởng Viện kiểm sát, Tòa án có thể quyết định giảm hoặc miễn việc chấp hành phần tiền phạt còn lại.
 Điều 106. Tha tù trước hạn có điều kiện
-758 bản án áp dụng
+760 bản án áp dụng
 1. Người dưới 18 tuổi đang chấp hành án phạt tù, nếu không thuộc các trường hợp quy định tại
 khoản 2 Điều 66
 của Bộ luật này
@@ -1033,7 +1033,7 @@ Sửa đổi bởi 86/2025/QH15 · hiệu lực 01/07/2025
 2. Phạm tội trong trường hợp ít nghiêm trọng, thì bị phạt tù từ 03 năm đến 07 năm.
 3. Người chuẩn bị phạm tội này, thì bị phạt tù từ 06 tháng đến 03 năm.
 Điều 116. Tội phá hoại chính sách đoàn kết
-45 bản án áp dụng
+46 bản án áp dụng
 1. Người nào thực hiện một trong những hành vi sau đây nhằm chống chính quyền nhân dân, thì bị phạt tù từ 07 năm đến 15 năm:
 a) Gây chia rẽ giữa các tầng lớp nhân dân, giữa nhân dân với chính quyền nhân dân, với lực lượng vũ trang nhân dân, với các tổ chức chính trị - xã hội;
 b) Gây hằn thù, kỳ thị, chia rẽ, ly khai dân tộc, xâm phạm quyền bình đẳng trong cộng đồng các dân tộc Việt Nam;
@@ -1079,7 +1079,7 @@ Chương XIV
 CÁC TỘI XÂM PHẠM TÍNH MẠNG,
 SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI
 Điều 123. Tội giết người
-5.847 bản án áp dụng
+5.848 bản án áp dụng
 1. Người nào giết người thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 12 năm đến 20 năm, tù chung thân hoặc tử hình:
 a) Giết 02 người trở lên;
 b) Giết người dưới 16 tuổi;
@@ -1122,7 +1122,7 @@ a) Làm chết 02 người trở lên;
 b) Đối với người dưới 16 tuổi, phụ nữ mà biết là có thai.
 3. Người phạm tội còn có thể bị cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm.
 Điều 128. Tội vô ý làm chết người
-497 bản án áp dụng
+498 bản án áp dụng
 1. Người nào vô ý làm chết người, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 01 năm đến 05 năm.
 2. Phạm tội làm chết 02 người trở lên, thì bị phạt tù từ 03 năm đến 10 năm.
 Điều 129. Tội vô ý làm chết người do vi phạm quy tắc nghề nghiệp hoặc quy tắc hành chính
@@ -1160,7 +1160,7 @@ c) Đối với người đang thi hành công vụ hoặc vì lý do công vụ
 d) Đối với người dưới 16 tuổi;
 đ) Để che giấu hoặc trốn tránh việc bị xử lý về một tội phạm khác.
 Điều 134. Tội cố ý gây thương tích hoặc gây tổn hại cho sức khỏe của người khác
-23.038 bản án áp dụng
+23.054 bản án áp dụng
 1. Người nào cố ý gây thương tích hoặc gây tổn hại cho sức khỏe của người khác mà tỷ lệ tổn thương cơ thể từ 11% đến 30% hoặc dưới 11% nhưng thuộc một trong các trường hợp sau đây, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm:
 a) Dùng vũ khí, vật liệu nổ, hung khí nguy hiểm hoặc thủ đoạn có khả năng gây nguy hại cho nhiều người;
 b) Dùng a-xít nguy hiểm hoặc hóa chất nguy hiểm;
@@ -1215,7 +1215,7 @@ b) Gây thương tích hoặc gây tổn hại cho sức khỏe của người k
 c) Đối với người dưới 16 tuổi, phụ nữ mà biết là có thai, người già yếu, ốm đau hoặc người khác không có khả năng tự vệ.
 3. Người phạm tội còn có thể bị cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm.
 Điều 138. Tội vô ý gây thương tích hoặc gây tổn hại cho sức khỏe của người khác
-6.798 bản án áp dụng
+6.799 bản án áp dụng
 1. Người nào vô ý gây thương tích hoặc gây tổn hại cho sức khỏe của người khác mà tỷ lệ tổn thương cơ thể từ 31% đến 60%, thì bị phạt cảnh cáo, phạt tiền từ 5.000.000 đồng đến 20.000.000 đồng hoặc phạt cải tạo không giam giữ đến 01 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 03 tháng đến 02 năm:
 a) Đối với 02 người trở lên mà tỷ lệ tổn thương cơ thể của mỗi người từ 31% đến 60%;
@@ -1434,7 +1434,7 @@ c) Gây rối loạn tâm thần và hành vi của nạn nhân mà tỷ lệ t�
 d) Làm nạn nhân tự sát.
 4. Người phạm tội còn có thể bị cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm.
 Điều 150. Tội mua bán người
-148 bản án áp dụng
+149 bản án áp dụng
 1. Người nào dùng vũ lực, đe dọa dùng vũ lực, lừa gạt hoặc thủ đoạn khác thực hiện một trong các hành vi sau đây, thì bị phạt tù từ 05 năm đến 10 năm:
 
 a) Chuyển giao hoặc tiếp nhận người để giao, nhận tiền, tài sản hoặc lợi ích vật chất khác;
@@ -1589,7 +1589,7 @@ Chương XV
 CÁC TỘI XÂM PHẠM QUYỀN TỰ DO CỦA CON NGƯỜI,
 QUYỀN TỰ DO, DÂN CHỦ CỦA CÔNG DÂN
 Điều 157. Tội bắt, giữ hoặc giam người trái pháp luật
-1.236 bản án áp dụng
+1.237 bản án áp dụng
 1. Người nào bắt, giữ hoặc giam người trái pháp luật, nếu không thuộc trường hợp quy định tại Điều 153 và Điều 377 của Bộ luật này, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 02 năm đến 07 năm:
 
@@ -1739,7 +1739,7 @@ Chương XVI
 
 CÁC TỘI XÂM PHẠM SỞ HỮU
 Điều 168. Tội cướp tài sản
-3.574 bản án áp dụng
+3.576 bản án áp dụng
 1. Người nào dùng vũ lực, đe dọa dùng vũ lực ngay tức khắc hoặc có hành vi khác làm cho người bị tấn công lâm vào tình trạng không thể chống cự được nhằm chiếm đoạt tài sản, thì bị phạt tù từ 03 năm đến 10 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 07 năm đến 15 năm:
 a) Có tổ chức;
@@ -1815,7 +1815,7 @@ a) Chiếm đoạt tài sản trị giá 500.000.000 đồng trở lên;
 b) Lợi dụng hoàn cảnh chiến tranh, tình trạng khẩn cấp.
 5. Người phạm tội còn có thể bị phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng hoặc tịch thu một phần hoặc toàn bộ tài sản.
 Điều 171. Tội cướp giật tài sản
-5.733 bản án áp dụng
+5.735 bản án áp dụng
 1. Người nào cướp giật tài sản của người khác, thì bị phạt tù từ 01 năm đến 05 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 03 năm đến 10 năm:
 a) Có tổ chức;
@@ -1867,7 +1867,7 @@ b) Công nhiên chiếm đoạt tài sản trị giá từ 200.000.000 đồng �
 c) Lợi dụng hoàn cảnh chiến tranh, tình trạng khẩn cấp.
 5. Người phạm tội còn có thể bị phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng.
 Điều 173. Tội trộm cắp tài sản
-59.537 bản án áp dụng
+59.566 bản án áp dụng
 1. Người nào trộm cắp tài sản của người khác trị giá từ 2.000.000 đồng đến dưới 50.000.000 đồng hoặc dưới 2.000.000 đồng nhưng thuộc một trong các trường hợp sau đây, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm:
 
 a) Đã bị xử phạt vi phạm hành chính về hành vi chiếm đoạt tài sản mà còn vi phạm;
@@ -1906,7 +1906,7 @@ a) Chiếm đoạt tài sản trị giá 500.000.000 đồng trở lên;
 b) Lợi dụng hoàn cảnh chiến tranh, tình trạng khẩn cấp.
 5. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 50.000.000 đồng.
 Điều 174. Tội lừa đảo chiếm đoạt tài sản
-10.891 bản án áp dụng
+10.900 bản án áp dụng
 1. Người nào bằng thủ đoạn gian dối chiếm đoạt tài sản của người khác trị giá từ 2.000.000 đồng đến dưới 50.000.000 đồng hoặc dưới 2.000.000 đồng nhưng thuộc một trong các trường hợp sau đây, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm:
 a) Đã bị xử phạt vi phạm hành chính về hành vi chiếm đoạt tài sản mà còn vi phạm;
 b) Đã bị kết án về tội này hoặc về một trong các tội quy định tại các
@@ -1937,7 +1937,7 @@ b) Chiếm đoạt tài sản trị giá từ 200.000.000 đồng đến dưới
 c) Lợi dụng hoàn cảnh chiến tranh, tình trạng khẩn cấp.
 5. Người phạm tội còn có thể bị phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản.
 Điều 175. Tội lạm dụng tín nhiệm chiếm đoạt tài sản
-4.702 bản án áp dụng
+4.704 bản án áp dụng
 1. Người nào thực hiện một trong các hành vi sau đây chiếm đoạt tài sản của người khác trị giá từ 4.000.000 đồng đến dưới 50.000.000 đồng hoặc dưới 4.000.000 đồng nhưng đã bị xử phạt vi phạm hành chính về hành vi chiếm đoạt tài sản hoặc đã bị kết án về tội này hoặc về một trong các tội quy định tại các điều 168, 169, 170, 171, 172, 173, 174 và 290 của Bộ luật này, chưa được xóa án tích mà còn vi phạm hoặc tài sản là phương tiện kiếm sống chính của người bị hại và gia đình họ, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm:
 a) Vay, mượn, thuê tài sản của người khác hoặc nhận được tài sản của người khác bằng hình thức hợp đồng rồi dùng thủ đoạn gian dối hoặc bỏ trốn để chiếm đoạt tài sản đó hoặc đến thời hạn trả lại tài sản mặc dù có điều kiện, khả năng nhưng cố tình không trả;
 b) Vay, mượn, thuê tài sản của người khác hoặc nhận được tài sản của người khác bằng hình thức hợp đồng và đã sử dụng tài sản đó vào mục đích bất hợp pháp dẫn đến không có khả năng trả lại tài sản.
@@ -1968,7 +1968,7 @@ d) Lợi dụng chức vụ, quyền hạn;
 3. Phạm tội sử dụng trái phép tài sản trị giá 1.500.000.000 đồng trở lên, thì bị phạt tù từ 03 năm đến 07 năm.
 4. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 20.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm.
 Điều 178. Tội hủy hoại hoặc cố ý làm hư hỏng tài sản
-5.805 bản án áp dụng
+5.807 bản án áp dụng
 1. Người nào hủy hoại hoặc cố ý làm hư hỏng tài sản của người khác trị giá từ 2.000.000 đồng đến dưới 50.000.000 đồng hoặc dưới 2.000.000 đồng nhưng thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm:
 
 a) Đã bị xử phạt vi phạm hành chính về một trong các hành vi quy định tại Điều này mà còn vi phạm;
@@ -2121,7 +2121,7 @@ d) Phạm tội thuộc trường hợp quy định tại Điều 79 của Bộ 
 
 đ) Pháp nhân thương mại còn có thể bị phạt tiền từ 50.000.000 đồng đến 200.000.000 đồng, cấm kinh doanh, cấm hoạt động trong một số lĩnh vực nhất định hoặc cấm huy động vốn từ 01 năm đến 03 năm.
 Điều 190. Tội sản xuất, buôn bán hàng cấm
-2.553 bản án áp dụng
+2.554 bản án áp dụng
 1. Người nào thực hiện một trong các hành vi sau đây, nếu không thuộc trường hợp quy định tại các điều 232, 234, 244, 246, 248, 251, 253, 254, 304, 305, 306, 309 và 311 của Bộ luật này, thì bị phạt tiền từ 100.000.000 đồng đến 1.000.000.000 đồng hoặc phạt tù từ 01 năm đến 05 năm:
 
 a) Sản xuất, buôn bán thuốc bảo vệ thực vật mà Nhà nước cấm kinh doanh, cấm lưu hành, cấm sử dụng từ 50 kilôgam đến dưới 100 kilôgam hoặc từ 50 lít đến dưới 100 lít;
@@ -2179,7 +2179,7 @@ của Bộ luật này
 , thì bị đình chỉ hoạt động vĩnh viễn;
 đ) Pháp nhân thương mại còn có thể bị phạt tiền từ 50.000.000 đồng đến 200.000.000 đồng, cấm kinh doanh, cấm hoạt động trong một số lĩnh vực nhất định hoặc cấm huy động vốn từ 01 năm đến 03 năm.
 Điều 191. Tội tàng trữ, vận chuyển hàng cấm
-3.625 bản án áp dụng
+3.627 bản án áp dụng
 1. Người nào tàng trữ, vận chuyển hàng cấm thuộc một trong các trường hợp sau đây, nếu không thuộc trường hợp quy định tại các điều 232, 234, 239, 244, 246, 249, 250, 253, 254, 304, 305, 306, 309 và 311 của Bộ luật này, thì bị phạt tiền từ 50.000.000 đồng đến 300.000.000 đồng hoặc phạt tù từ 06 tháng đến 03 năm:
 
 a) Thuốc bảo vệ thực vật mà Nhà nước cấm kinh doanh, cấm lưu hành, cấm sử dụng từ 50 kilôgam đến dưới 100 kilôgam hoặc từ 50 lít đến dưới 100 lít;
@@ -2361,7 +2361,7 @@ d) Phạm tội thuộc trường hợp quy định tại khoản 4 Điều này
 
 e) Pháp nhân thương mại còn có thể bị phạt tiền từ 200.000.000 đồng đến 600.000.000 đồng, cấm kinh doanh, cấm hoạt động trong một số lĩnh vực nhất định hoặc cấm huy động vốn từ 01 năm đến 03 năm.
 Điều 194. Tội sản xuất, buôn bán hàng giả là thuốc chữa bệnh, thuốc phòng bệnh
-5.784 bản án áp dụng
+5.787 bản án áp dụng
 1. Người nào sản xuất, buôn bán hàng giả là thuốc chữa bệnh, thuốc phòng bệnh, thì bị phạt tù từ 02 năm đến 07 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 05 năm đến 12 năm:
 
@@ -2539,7 +2539,7 @@ c) Gây thiệt hại về tài sản 1.500.000.000 đồng trở lên.
 CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH,
 NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM
 Điều 200. Tội trốn thuế
-384 bản án áp dụng
+386 bản án áp dụng
 1. Người nào thực hiện một trong các hành vi sau đây trốn thuế với số tiền từ 100.000.000 đồng đến dưới 300.000.000 đồng hoặc dưới 100.000.000 đồng nhưng đã bị xử phạt vi phạm hành chính về hành vi trốn thuế hoặc đã bị kết án về tội này hoặc về một trong các tội quy định tại các điều 188, 189, 190, 191, 192, 193, 194, 195, 196, 202, 250, 251, 253, 254, 304, 305, 306, 309 và 311 của Bộ luật này, chưa được xóa án tích mà còn vi phạm, thì bị phạt tiền từ 100.000.000 đồng đến 500.000.000 đồng hoặc phạt tù từ 03 tháng đến 01 năm:
 
 a) Không nộp hồ sơ đăng ký thuế; không nộp hồ sơ khai thuế; nộp hồ sơ khai thuế sau 90 ngày kể từ ngày hết hạn nộp hồ sơ khai thuế hoặc hết thời hạn gia hạn nộp hồ sơ khai thuế theo quy định của pháp luật;
@@ -2579,7 +2579,7 @@ d) Phạm tội thuộc trường hợp quy định tại Điều 79 của Bộ 
 
 đ) Pháp nhân thương mại còn có thể bị phạt tiền từ 50.000.000 đồng đến 200.000.000 đồng, cấm kinh doanh, cấm hoạt động trong một số lĩnh vực nhất định hoặc cấm huy động vốn từ 01 năm đến 03 năm.
 Điều 201. Tội cho vay lãi nặng trong giao dịch dân sự
-2.364 bản án áp dụng
+2.371 bản án áp dụng
 1. Người nào trong giao dịch dân sự mà cho vay với lãi suất gấp 05 lần mức lãi suất cao nhất quy định trong
 Bộ luật dân sự
 , thu lợi bất chính từ 30.000.000 đồng đến dưới 100.000.000 đồng hoặc đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt tiền từ 50.000.000 đồng đến 200.000.000 đồng hoặc phạt cải tạo không giam giữ đến 03 năm.
@@ -3018,7 +3018,7 @@ khoản 2 Điều này
 , thì bị phạt tiền từ 2.000.000.000 đồng đến 5.000.000.000 đồng hoặc đình chỉ hoạt động có thời hạn từ 06 tháng đến 02 năm;
 c) Pháp nhân thương mại còn có thể bị phạt tiền từ 100.000.000 đồng đến 500.000.000 đồng, cấm kinh doanh, cấm hoạt động trong một số lĩnh vực nhất định hoặc cấm huy động vốn từ 01 năm đến 03 năm.
 Điều 227. Tội vi phạm các quy định về nghiên cứu, thăm dò, khai thác tài nguyên
-330 bản án áp dụng
+331 bản án áp dụng
 1. Người nào vi phạm quy định về nghiên cứu, thăm dò, khai thác tài nguyên trong đất liền, hải đảo, nội thủy, vùng lãnh hải, vùng đặc quyền kinh tế, thềm lục địa và vùng trời của Việt Nam mà không có giấy phép hoặc không đúng với nội dung giấy phép thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ 300.000.000 đồng đến 1.500.000.000 đồng hoặc phạt tù từ 06 tháng đến 03 năm:
 
 a) Thu lợi bất chính từ nghiên cứu, thăm dò, khai thác tài nguyên nước, dầu khí hoặc khoáng sản khác từ 100.000.000 đồng đến dưới 500.000.000 đồng;
@@ -4148,7 +4148,7 @@ Sửa đổi bởi 86/2025/QH15 · hiệu lực 01/07/2025
 
 Điều 252. Tội chiếm đoạt chất ma túy
 Điều 249. Tội tàng trữ trái phép chất ma túy
-82.299 bản án áp dụng
+82.372 bản án áp dụng
 1. Người nào tàng trữ trái phép chất ma túy mà không nhằm mục đích mua bán, vận chuyển, sản xuất trái phép chất ma túy thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 01 năm đến 05 năm:
 
 a) Đã bị xử phạt vi phạm hành chính về hành vi quy định tại Điều này hoặc đã bị kết án về tội này hoặc một trong các tội quy định tại các điều 248, 250, 251 và 252 của Bộ luật này, chưa được xóa án tích mà còn vi phạm;
@@ -4320,7 +4320,7 @@ g) Các chất ma túy khác ở thể lỏng có thể tích 750 mililít trở
 h) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm a đến điểm g khoản này.
 5. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 500.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản.
 Điều 251. Tội mua bán trái phép chất ma túy
-34.784 bản án áp dụng
+34.817 bản án áp dụng
 1. Người nào mua bán trái phép chất ma túy, thì bị phạt tù từ 02 năm đến 07 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 07 năm đến 15 năm:
 
@@ -4516,7 +4516,7 @@ b) Tiền chất ở thể lỏng có thể tích 1.800 mililít trở lên.
 5. Trường hợp phạm tội có cả tiền chất ở thể rắn và tiền chất ở thể lỏng thì được quy đổi để làm căn cứ truy cứu trách nhiệm hình sự, với tỷ lệ 01 gam tiền chất ở thể rắn tương đương với 1,5 mililít tiền chất ở thể lỏng. Sau khi quy đổi, số lượng tiền chất thuộc khoản nào, thì người thực hiện hành vi phạm tội bị truy cứu trách nhiệm hình sự theo khoản đó.
 6. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 50.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản.
 Điều 254. Tội sản xuất, tàng trữ, vận chuyển hoặc mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy
-321 bản án áp dụng
+322 bản án áp dụng
 1. Người nào sản xuất, tàng trữ, vận chuyển hoặc mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 01 năm đến 05 năm:
 a) Đã bị xử phạt vi phạm hành chính về một trong các hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm;
 b) Có số lượng từ 06 đơn vị đến 19 đơn vị dụng cụ, phương tiện cùng loại hoặc khác loại.
@@ -4531,7 +4531,7 @@ g) Sử dụng người dưới 16 tuổi vào việc phạm tội;
 h) Tái phạm nguy hiểm.
 3. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 500.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản.
 Điều 255. Tội tổ chức sử dụng trái phép chất ma túy
-7.632 bản án áp dụng
+7.668 bản án áp dụng
 Sửa đổi bởi 86/2025/QH15 · hiệu lực 01/07/2025
 1. Người nào tổ chức sử dụng trái phép chất ma túy dưới bất kỳ hình thức nào, thì bị phạt tù từ 03 năm đến 07 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 07 năm đến 15 năm:
@@ -4632,7 +4632,7 @@ CÁC TỘI XÂM PHẠM AN TOÀN CÔNG CỘNG, TRẬT TỰ CÔNG CỘNG
 
 CÁC TỘI XÂM PHẠM AN TOÀN GIAO THÔNG
 Điều 260. Tội vi phạm quy định về tham gia giao thông đường bộ
-17.746 bản án áp dụng
+17.766 bản án áp dụng
 1. Người nào tham gia giao thông đường bộ mà vi phạm quy định về an toàn giao thông đường bộ gây thiệt hại cho người khác thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ 30.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 01 năm đến 05 năm:
 a) Làm chết người;
 b) Gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người mà tỷ lệ tổn thương cơ thể 61% trở lên;
@@ -4702,7 +4702,7 @@ b) Gây thương tích hoặc gây tổn hại cho sức khỏe của 03 ngườ
 c) Gây thiệt hại về tài sản 1.500.000.000 đồng trở lên.
 4. Người phạm tội còn có thể bị phạt tiền từ 10.000.000 đồng đến 30.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm.
 Điều 264. Tội giao cho người không đủ điều kiện điều khiển các phương tiện tham gia giao thông đường bộ
-669 bản án áp dụng
+671 bản án áp dụng
 1. Người nào giao cho người mà biết rõ người đó không có giấy phép lái xe hoặc đang trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định, có sử dụng chất ma túy, chất kích thích mạnh khác hoặc không đủ các điều kiện khác theo quy định của pháp luật điều khiển phương tiện tham gia giao thông đường bộ gây thiệt hại cho người khác thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng hoặc phạt cải tạo không giam giữ đến 03 năm:
 a) Làm chết người;
 b) Gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người mà tỷ lệ tổn thương cơ thể 61% trở lên;
@@ -4937,7 +4937,7 @@ b) Gây thương tích hoặc gây tổn hại cho sức khỏe của 03 ngườ
 c) Gây thiệt hại về tài sản 1.500.000.000 đồng trở lên.
 4. Người phạm tội còn có thể bị cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm.
 Điều 277. Tội vi phạm quy định điều khiển tàu bay
-12 bản án áp dụng
+13 bản án áp dụng
 1. Người nào chỉ huy, điều khiển tàu bay mà vi phạm quy định về an toàn giao thông đường không, có khả năng thực tế dẫn đến hậu quả gây thiệt hại cho tính mạng, sức khỏe hoặc tài sản của người khác nếu không được ngăn chặn kịp thời, thì bị phạt tiền từ 30.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 01 năm đến 05 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 03 năm đến 10 năm:
 a) Làm chết người;
@@ -5397,7 +5397,7 @@ g) Tái phạm nguy hiểm.
 3. Người chuẩn bị phạm tội này, thì bị phạt tù từ 01 năm đến 05 năm.
 4. Người phạm tội còn có thể bị phạt quản chế từ 01 năm đến 05 năm.
 Điều 304. Tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt vũ khí quân dụng, phương tiện kỹ thuật quân sự
-1.769 bản án áp dụng
+1.786 bản án áp dụng
 1. Người nào chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt vũ khí quân dụng, phương tiện kỹ thuật quân sự, thì bị phạt tù từ 01 năm đến 07 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 05 năm đến 12 năm:
 
@@ -5481,7 +5481,7 @@ d) Gây thương tích hoặc gây tổn hại cho sức khỏe của 03 ngườ
 đ) Gây thiệt hại về tài sản 1.500.000.000 đồng trở lên.
 5. Người phạm tội còn có thể bị phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng, phạt quản chế hoặc cấm cư trú từ 01 năm đến 05 năm.
 Điều 306. Tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt súng săn, vũ khí thô sơ, vũ khí thể thao, công cụ hỗ trợ và các vũ khí khác có tính năng tác dụng tương tự
-249 bản án áp dụng
+250 bản án áp dụng
 1. Người nào chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt súng săn, vũ khí thô sơ, vũ khí thể thao, vũ khí khác có tính năng, tác dụng tương tự như súng săn, vũ khí thể thao hoặc công cụ hỗ trợ nhưng đã bị xử phạt vi phạm hành chính về một trong các hành vi quy định tại Điều này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt tù từ 03 tháng đến 02 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 01 năm đến 05 năm:
 a) Có tổ chức;
@@ -5733,7 +5733,7 @@ Sửa đổi bởi 86/2025/QH15 · hiệu lực 01/07/2025
 
 CÁC TỘI PHẠM KHÁC XÂM PHẠM TRẬT TỰ CÔNG CỘNG
 Điều 318. Tội gây rối trật tự công cộng
-3.416 bản án áp dụng
+3.425 bản án áp dụng
 1. Người nào gây rối trật tự công cộng gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội hoặc đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt tiền từ 5.000.000 đồng đến 50.000.000 đồng, phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 02 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 02 năm đến 07 năm:
 a) Có tổ chức;
@@ -5759,7 +5759,7 @@ b) Thu lợi bất chính 200.000.000 đồng trở lên;
 c) Gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội.
 3. Người phạm tội còn có thể bị phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng.
 Điều 321. Tội đánh bạc
-25.220 bản án áp dụng
+25.238 bản án áp dụng
 1. Người nào đánh bạc trái phép dưới bất kỳ hình thức nào được thua bằng tiền hay hiện vật trị giá từ 5.000.000 đồng đến dưới 50.000.000 đồng hoặc dưới 5.000.000 đồng nhưng đã bị xử phạt vi phạm hành chính về hành vi này hoặc hành vi quy định tại Điều 322 của Bộ luật này hoặc đã bị kết án về tội này hoặc tội quy định tại Điều 322 của Bộ luật này, chưa được xóa án tích mà còn vi phạm, thì bị phạt tiền từ 20.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 03 năm đến 07 năm:
 a) Có tính chất chuyên nghiệp;
@@ -5768,7 +5768,7 @@ c) Sử dụng mạng internet, mạng máy tính, mạng viễn thông, phươn
 d) Tái phạm nguy hiểm.
 3. Người phạm tội còn có thể bị phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng.
 Điều 322. Tội tổ chức đánh bạc hoặc gá bạc
-5.058 bản án áp dụng
+5.059 bản án áp dụng
 1. Người nào tổ chức đánh bạc hoặc gá bạc trái phép thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ 50.000.000 đồng đến 300.000.000 đồng hoặc phạt tù từ 01 năm đến 05 năm:
 
 a) Tổ chức cho 10 người đánh bạc trở lên trong cùng một lúc mà tổng số tiền, hiện vật dùng đánh bạc trị giá 5.000.000 đồng trở lên hoặc tổ chức 02 chiếu bạc trở lên trong cùng một lúc mà tổng số tiền, hiện vật dùng đánh bạc trị giá 5.000.000 đồng trở lên;
@@ -5941,7 +5941,7 @@ Chương XXII
 
 CÁC TỘI XÂM PHẠM TRẬT TỰ QUẢN LÝ HÀNH CHÍNH
 Điều 330. Tội chống người thi hành công vụ
-1.834 bản án áp dụng
+1.836 bản án áp dụng
 1. Người nào dùng vũ lực, đe dọa dùng vũ lực hoặc dùng thủ đoạn khác cản trở người thi hành công vụ thực hiện công vụ của họ hoặc ép buộc họ thực hiện hành vi trái pháp luật, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 02 năm đến 07 năm:
 a) Có tổ chức;
@@ -5950,7 +5950,7 @@ c) Xúi giục, lôi kéo, kích động người khác phạm tội;
 d) Gây thiệt hại về tài sản 50.000.000 đồng trở lên;
 đ) Tái phạm nguy hiểm.
 Điều 331. Tội lợi dụng các quyền tự do dân chủ xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân
-270 bản án áp dụng
+271 bản án áp dụng
 1. Người nào lợi dụng các quyền tự do ngôn luận, tự do báo chí, tự do tín ngưỡng, tôn giáo, tự do hội họp, lập hội và các quyền tự do dân chủ khác xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân, thì bị phạt cảnh cáo, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm.
 2. Phạm tội gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội, thì bị phạt tù từ 02 năm đến 07 năm.
 Điều 332. Tội trốn tránh nghĩa vụ quân sự
@@ -6019,7 +6019,7 @@ a) Phạm tội 02 lần trở lên;
 b) Sử dụng giấy tờ, tài liệu đã bị sửa chữa hoặc làm sai lệch thực hiện tội phạm rất nghiêm trọng hoặc tội đặc biệt nghiêm trọng.
 3. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 20.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm.
 Điều 341. Tội làm giả con dấu, tài liệu của cơ quan, tổ chức; tội sử dụng con dấu, tài liệu giả của cơ quan, tổ chức
-3.756 bản án áp dụng
+3.758 bản án áp dụng
 1. Người nào làm giả con dấu, tài liệu hoặc giấy tờ khác của cơ quan, tổ chức hoặc sử dụng con dấu, tài liệu hoặc giấy tờ giả thực hiện hành vi trái pháp luật, thì bị phạt tiền từ 30.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 02 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 02 năm đến 05 năm:
 a) Có tổ chức;
@@ -6072,7 +6072,7 @@ c) Phát hành xuất bản phẩm có nội dung bị cấm theo quy định c�
 2. Tái phạm hoặc phạm tội gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội khu vực biên giới, thì bị phạt tù từ 02 năm đến 07 năm.
 3. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 50.000.000 đồng, cấm cư trú từ một 01 năm đến 05 năm.
 Điều 347. Tội vi phạm quy định về xuất cảnh, nhập cảnh; tội ở lại Việt Nam trái phép
-95 bản án áp dụng
+96 bản án áp dụng
 Người nào xuất cảnh, nhập cảnh trái phép hoặc ở lại Việt Nam trái phép, đã bị xử phạt vi phạm hành chính về hành vi này mà còn vi phạm, thì bị phạt tiền từ 5.000.000 đồng đến 50.000.000 đồng hoặc phạt tù từ 06 tháng đến 03 năm.
 Điều 348. Tội tổ chức, môi giới cho người khác xuất cảnh, nhập cảnh hoặc ở lại Việt Nam trái phép
 802 bản án áp dụng
@@ -6696,7 +6696,7 @@ i) Khoản 3 và khoản 4 Điều 373, khoản 3 và khoản 4 Điều 374, kho
 k) Các điều 421, 422, 423, 424 và 425.
 2. Phạm tội trong trường hợp lợi dụng chức vụ, quyền hạn cản trở việc phát hiện tội phạm hoặc có những hành vi khác bao che người phạm tội, thì bị phạt tù từ 02 năm đến 07 năm.
 Điều 390. Tội không tố giác tội phạm
-579 bản án áp dụng
+580 bản án áp dụng
 1. Người nào biết rõ một trong các tội phạm quy định tại khoản 2 hoặc khoản 3 Điều 14 của Bộ luật này đang được chuẩn bị hoặc một trong các tội phạm quy định tại Điều 389 của Bộ luật này đang được thực hiện hoặc đã được thực hiện mà không tố giác, nếu không thuộc trường hợp quy định tại khoản 2 và khoản 3 Điều 19 của Bộ luật này, thì bị phạt cảnh cáo, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm.
 2. Người không tố giác nếu đã có hành động can ngăn người phạm tội hoặc hạn chế tác hại của tội phạm, thì có thể được miễn trách nhiệm hình sự hoặc miễn hình phạt.
 Điều 391. Tội gây rối trật tự phiên tòa

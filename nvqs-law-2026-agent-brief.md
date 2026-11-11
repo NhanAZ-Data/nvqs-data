@@ -3,7 +3,7 @@ document_type: legal_research_agent_brief
 topic: nghĩa vụ quân sự Việt Nam
 jurisdiction: Việt Nam
 language: vi
-as_of: 2026-11-05
+as_of: 2026-11-12
 timezone: Asia/Saigon
 status: current_summary_as_of_checked_date
 primary_current_text: 133/2026/VBHN-LQ-VPQH
@@ -33,7 +33,7 @@ confidence:
 not_legal_advice: true
 ---
 
-# Agent brief: Luật nghĩa vụ quân sự Việt Nam, cập nhật 05/11/2026
+# Agent brief: Luật nghĩa vụ quân sự Việt Nam, cập nhật 12/11/2026
 
 ## 0. Cách sử dụng file
 
@@ -83,10 +83,12 @@ Không được coi văn bản này là quyết định tuyển quân, kết lu�
 |---|---|---|---|
 | SRC-SELECT-2025 | 36/VBHN-BQP ngày 22/08/2025 | tuyển chọn và gọi công dân nhập ngũ; hợp nhất quy định của Thông tư 148/2018/TT-BQP và sửa đổi liên quan, gồm TT 68/2025/TT-BQP | [Công báo điện tử Chính phủ](https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-36-vbhn-bqp-45994.htm) |
 | SRC-SELECT-AMEND-2025 | 68/2025/TT-BQP ngày 03/07/2025 | sửa đổi quy định tuyển chọn và gọi công dân nhập ngũ; cần đọc riêng khi phân tích BMI, tật khúc xạ và tiêu chí tuyển chọn | [Cổng văn bản Chính phủ](https://vanban.chinhphu.vn/?classid=1&docid=214707&pageid=27160&typegroupid=6) |
+| SRC-SELECT-AMEND-2026 | 173/2026/TT-BQP ngày 28/10/2026 | cập nhật tiêu chuẩn sức khỏe dẫn chiếu, trách nhiệm tuyển quân, số lượng gọi khám, chốt quân số, phúc tra và bù đổi cho mùa tuyển quân 2027 | [Cổng văn bản Chính phủ](https://vanban.chinhphu.vn/?docid=220144&orggroupid=4&pageid=27160) |
 | SRC-HEALTH-2025 | 88/VBHN-BQP ngày 17/11/2025 | tiêu chuẩn sức khỏe, khám sức khỏe; hợp nhất TT 105/2023/TT-BQP và TT 106/2025/TT-BQP | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=2629&docid=215915&pageid=27160) |
 | SRC-HEALTH-BASE-2023 | 105/2023/TT-BQP ngày 06/12/2023 | văn bản nền về tiêu chuẩn sức khỏe, khám sức khỏe và các phụ lục phân loại; phải đọc cùng văn bản sửa đổi hiện hành | [Cổng văn bản Chính phủ](https://vanban.chinhphu.vn/?classid=1&docid=209184&pageid=27160) |
 | SRC-HEALTH-AMEND | 106/2025/TT-BQP ngày 30/09/2025 | cập nhật địa điểm sơ tuyển, Hội đồng khám sức khỏe khu vực, quy trình/chấm điểm thị lực | [Chinhphu.vn](https://xaydungchinhsach.chinhphu.vn/thong-tu-so-106-2025-tt-bqp-sua-doi-bo-sung-quy-dinh-ve-tieu-chuan-suc-khoe-kham-suc-khoe-nghia-vu-quan-su-119251004201237596.htm) |
 | SRC-HEALTH-GUIDANCE-2027 | Hướng dẫn 8428/QY-ĐTr ngày 04/11/2026 | hướng dẫn triển khai sơ tuyển, khám sức khỏe NVQS năm 2027; phạm vi nghiệp vụ/năm tuyển quân, không phải luật chung | [Trang tra cứu công khai](https://www.phapluatquansu.vn/2026/11/huong-dan-8428qy-tr-ngay-04112026-cua.html) |
+| SRC-DRUG-LISTS-2026 | 28/2026/NĐ-CP ngày 19/01/2026 | danh mục chất ma túy và tiền chất; là văn bản được 8428 dẫn chiếu khi sơ tuyển trường hợp nghiện ma túy | [Cổng văn bản Chính phủ](https://vanban.chinhphu.vn/?classid=0&docid=216717&pageid=27160) |
 | SRC-PROCEDURE | 75/VBHN-BQP ngày 06/10/2025 | trình tự, thủ tục đăng ký, khám, kiểm tra sức khỏe và chế độ trong thời gian thực hiện | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=0&docid=215553&pageid=27160) |
 | SRC-REGISTRATION-ADMIN | Quyết định 6375/QĐ-BQP ngày 10/12/2025 | công bố thủ tục hành chính sửa đổi, bổ sung trong lĩnh vực NVQS | [Chinhphu.vn](https://xaydungchinhsach.chinhphu.vn/huong-dan-chi-tiet-cac-buoc-dang-ky-nghia-vu-quan-su-lan-dau-119251210164223646.htm) |
 | SRC-LOCAL-GOV | Nghị định 220/2025/NĐ-CP | sửa một số nghị định về quốc phòng, quân sự khi tổ chức chính quyền địa phương hai cấp | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=214846&orggroupid=2&pageid=27160) |
@@ -103,6 +105,12 @@ Các văn bản này đã được tải thành tệp riêng trong [`van-ban-ngu
 - `SRC-SELECT-AMEND-2025`: đọc trực tiếp Thông tư 68/2025 khi phân tích tiêu chí tuyển chọn, BMI hoặc tật khúc xạ.
 - `SRC-HEALTH-BASE-2023`: dùng để tra phụ lục và nền kỹ thuật của tiêu chuẩn sức khỏe; khi kết luận hiện hành phải đối chiếu với `SRC-HEALTH-AMEND` hoặc `SRC-HEALTH-2025`.
 - `SRC-HEALTH-GUIDANCE-2027`: hướng dẫn nghiệp vụ cho năm 2027; phải xác định phạm vi áp dụng và không tự suy rộng thành quy định áp dụng cho mọi năm/địa phương.
+- `SRC-SELECT-AMEND-2026`: văn bản mới nhất trong corpus về sửa đổi quy trình tuyển quân; dùng cùng 36/VBHN-BQP, 68/2025/TT-BQP và 8428/QY-ĐTr khi phân tích hồ sơ năm 2027.
+- `SRC-DRUG-LISTS-2026`: chỉ là nguồn danh mục được 8428 dẫn chiếu để xác định chất ma túy/tiền chất; không dùng thay cho kết luận khám sức khỏe của Hội đồng.
+
+### Nguồn được 8428 dẫn chiếu nhưng chưa đưa vào corpus
+
+Hướng dẫn 8428/QY-ĐTr còn dẫn Thông tư 150/2026/TT-BQP về tuyển chọn vào một số lực lượng, đơn vị đặc thù và Quyết định 6098/QĐ-BQP về giao chỉ tiêu tuyển nhận công dân nhập ngũ năm 2027. Tại lần cập nhật 12/11/2026, chưa tìm thấy bản PDF công khai có thể xác minh provenance trên Cổng văn bản Chính phủ hoặc phapluatquansu.vn; không dựng bản sao không kiểm chứng. Hai văn bản này không phải nguồn chấm điểm/xếp loại sức khỏe chung, nhưng cần bổ sung nếu sau này có bản công khai đáng tin cậy.
 
 ## 3. Rule records chuẩn hóa
 
@@ -342,6 +350,14 @@ Từ 01/09/2026, hành vi không chấp hành quyết định gọi đăng ký, 
 
 Không chỉ gian dối trong khám sức khỏe; Luật 14/2026/QH16 ghi nhận rõ hành vi gian dối trong đăng ký, sơ tuyển và khám sức khỏe là hành vi bị nghiêm cấm.
 
+### CHANGE-2026-03 — Cập nhật quy trình tuyển quân theo Thông tư 173/2026/TT-BQP
+
+Thông tư 173/2026/TT-BQP có hiệu lực từ ngày 28/10/2026. Khi phân tích mùa tuyển quân 2027, phải đọc cùng 68/2025/TT-BQP và 8428/QY-ĐTr; các nội dung đáng chú ý gồm tiêu chuẩn sức khỏe loại 1–3 được dẫn chiếu theo 105/2023/TT-BQP đã sửa bởi 106/2025/TT-BQP, số lượng gọi khám không quá bốn lần chỉ tiêu, chốt quân số/dự phòng, phúc tra trong đơn vị và bù đổi.
+
+### CHANGE-2026-04 — Danh mục ma túy/tiền chất áp dụng theo Nghị định 28/2026/NĐ-CP
+
+Nghị định 28/2026/NĐ-CP có hiệu lực từ ngày 19/01/2026 và thay thế các danh mục trước đó. Hướng dẫn 8428/QY-ĐTr dẫn nghị định này khi xử lý tiêu chí không gọi nhập ngũ đối với công dân nghiện chất ma túy hoặc tiền chất; agent không được suy ra tình trạng nghiện chỉ từ danh mục hóa chất mà không có kết luận chuyên môn.
+
 ## 5. Các bẫy suy luận agent phải tránh
 
 - `studying != automatic_deferment`: phải xác định bậc học, hệ đào tạo, khóa đào tạo và lịch sử đã được tạm hoãn.
@@ -439,15 +455,17 @@ Nguồn chính thức:
 6. [Thông tư 105/2023/TT-BQP](https://vanban.chinhphu.vn/?classid=1&docid=209184&pageid=27160)
 7. [Tiêu chuẩn sức khỏe – 88/VBHN-BQP](https://vanban.chinhphu.vn/?classid=2629&docid=215915&pageid=27160)
 8. [Thông tư 106/2025/TT-BQP](https://xaydungchinhsach.chinhphu.vn/thong-tu-so-106-2025-tt-bqp-sua-doi-bo-sung-quy-dinh-ve-tieu-chuan-suc-khoe-kham-suc-khoe-nghia-vu-quan-su-119251004201237596.htm)
-9. [Hướng dẫn 8428/QY-ĐTr năm 2027](https://www.phapluatquansu.vn/2026/11/huong-dan-8428qy-tr-ngay-04112026-cua.html)
-10. [Nghị định 218/2025/NĐ-CP](https://vanban.chinhphu.vn/?classid=1&docid=214822&orggroupid=2&pageid=27160)
-11. [Quy trình tuyển quân năm 2027](https://xaydungchinhsach.chinhphu.vn/cac-buoc-tuyen-chon-goi-cong-dan-nhap-ngu-nam-2027-119261031145334727.htm)
+9. [Thông tư 173/2026/TT-BQP](https://vanban.chinhphu.vn/?docid=220144&orggroupid=4&pageid=27160)
+10. [Hướng dẫn 8428/QY-ĐTr năm 2027](https://www.phapluatquansu.vn/2026/11/huong-dan-8428qy-tr-ngay-04112026-cua.html)
+11. [Nghị định 28/2026/NĐ-CP](https://vanban.chinhphu.vn/?classid=0&docid=216717&pageid=27160)
+12. [Nghị định 218/2025/NĐ-CP](https://vanban.chinhphu.vn/?classid=1&docid=214822&orggroupid=2&pageid=27160)
+13. [Quy trình tuyển quân năm 2027](https://xaydungchinhsach.chinhphu.vn/cac-buoc-tuyen-chon-goi-cong-dan-nhap-ngu-nam-2027-119261031145334727.htm)
 12. [Quy trình khiếu nại sức khỏe](https://xaydungchinhsach.chinhphu.vn/quy-trinh-so-tuyen-kham-suc-khoe-va-giai-quyet-khieu-nai-trong-thuc-hien-nghia-vu-quan-su-119260903152349204.htm)
 13. [Nghĩa vụ tham gia Công an nhân dân – TT 101/2025/TT-BCA](https://vanban.bocongan.gov.vn/co-so-du-lieu-van-ban/thong-tu-quy-dinh-ve-tuyen-chon-va-thuc-hien-che-do-chinh-sach-doi-voi-cong-dan-thuc-hien-nghia-vu-tham-gia-cong-an-nhan-dan-1763108913?tab=fulltext)
 
 ## 10. Lịch sử kiểm tra tài liệu
 
-- `checked_at`: 2026-11-05
+- `checked_at`: 2026-11-12
 - `checked_timezone`: Asia/Saigon
 - `checked_scope`: luật, văn bản hợp nhất, thông tư gốc, hướng dẫn sơ tuyển năm 2027 và quy định xử phạt liên quan đến tuyển quân 2026–2027
 - `known_limitation`: lịch giao quân, cách tiếp nhận hồ sơ và việc triển khai thực tế có thể khác giữa các tỉnh/xã; phải kiểm tra thông báo địa phương trước khi tư vấn hành động cụ thể.

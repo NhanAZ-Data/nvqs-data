@@ -294,24 +294,24 @@ Thông tư 01/2024/TT-VKSTC bổ nhiểm, cách chức Thủ trưởng Cơ quan 
 ●
 Chưa xác định
 📄
-Thông tư số 166/2026/TT-BTC Bãi bỏ một số thông tư liên tịch do Bộ trưởng Bộ Tài chính liên tịch ban hành liên quan đến lĩnh vực tài chính
-166/2026/TT-BTC
+Thông tư số 167/2026/TT-BTC Quy định miễn phí thăm quan vào Ngày Văn hóa Việt Nam
+167/2026/TT-BTC
 📅
-02/11/2026
+10/11/2026
+●
+Còn hiệu lực
+📄
+Thông tư số 178/2026/TT-BQP QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN VỀ TỔ CHỨC, HOẠT ĐỘNG CỦA HỘI THẨM QUÂN NHÂN VÀ ĐOÀN HỘI THẨM QUÂN NHÂN TÒA ÁN QUÂN SỰ TRONG QUÂN ĐỘI NHÂN DÂN VIỆT NAM
+178/2026/TT-BQP
+📅
+03/11/2026
 ●
 Chưa xác định
 📄
-Thông tư Quy định về Hệ thống thông tin, Cơ sở dữ liệu cấp nước sạch và thoát nước đô thị
-69/2026/TT-BXD
+Thông tư số 179/2026/TT-BQP Bãi bỏ một số văn bản quy phạm pháp luật thuộc thẩm quyền của Bộ trưởng Bộ Quốc phòng ban hành, liên tịch ban hành
+179/2026/TT-BQP
 📅
-01/11/2026
-●
-Chưa xác định
-📄
-Thông tư số 165/2026/TT-BTC Hướng dẫn một số nội dung về chế độ báo cáo, công bố thông tin trên thị trường tài sản mã hóa
-165/2026/TT-BTC
-📅
-31/10/2026
+03/11/2026
 ●
 Chưa xác định
 Tra cứu hơn 180.000 văn bản pháp luật

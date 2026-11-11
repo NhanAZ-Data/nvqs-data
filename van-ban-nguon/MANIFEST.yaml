@@ -1,6 +1,6 @@
 manifest_type: nvqs_source_documents
 topic: nghĩa vụ quân sự Việt Nam
-downloaded_at: 2026-11-05
+downloaded_at: 2026-11-12
 timezone: Asia/Saigon
 base_directory: C:\Users\NhanAZ\Documents\ChatGPT\NVQS\van-ban-nguon
 format: PDF
@@ -185,3 +185,25 @@ additional_documents:
       download_url: https://drive.google.com/file/d/1zoSFvmzsbaNQk_Dd1lytBe_9Kprp1Ft0/view?usp=drivesdk
       provenance: public_attachment_mirror
       source_note: Chưa tìm thấy URL tệp trực tiếp công khai trên cổng Bộ Quốc phòng; chỉ xác nhận được tệp đính kèm công khai qua trang tra cứu quân sự. Khi dùng cho quyết định cá nhân, cần đối chiếu bản do cơ quan quân sự ban hành.
+
+    - id: SRC-SELECT-AMEND-2026
+      title: Thông tư sửa đổi, bổ sung một số điều của các Thông tư của Bộ trưởng Bộ Quốc phòng về tính tuổi quân; tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; tuyển chọn và gọi công dân nhập ngũ; cấp, quản lý, sử dụng Giấy chứng minh, Thẻ; phong, thăng, giáng, bổ nhiệm, giáng chức, cách chức và thực hiện xuất ngũ đối với hạ sĩ quan, binh sĩ; hình thức, nội dung, thời gian sinh hoạt của quân nhân dự bị
+      identifier: 173/2026/TT-BQP
+      filename: 173-2026-TT-BQP-Sua-doi-tuyen-quan-va-quan-ly-quan-nhan.pdf
+      pages: 26
+      bytes: 895019
+      sha256: 1CA71178C5E2701B73D9E70B9BD022CD67F09BA69F04AF4CE6CB996E5CBB4F8D
+      source_page: https://vanban.chinhphu.vn/?docid=220144&orggroupid=4&pageid=27160
+      download_url: https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/11/173bqp.signed.pdf
+      provenance: official_attachment
+
+    - id: SRC-DRUG-LISTS-2026
+      title: Nghị định quy định các danh mục chất ma túy và tiền chất
+      identifier: 28/2026/NĐ-CP
+      filename: 28-2026-ND-CP-Danh-muc-chat-ma-tuy-va-tien-chat.pdf
+      pages: 40
+      bytes: 1612934
+      sha256: 4AD290D7AB588ACC61E056C1B154A2EB4294A11F78B03EEF710DB333D17E11D0
+      source_page: https://vanban.chinhphu.vn/?classid=0&docid=216717&pageid=27160
+      download_url: https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/28-cp.signed.pdf
+      provenance: official_attachment

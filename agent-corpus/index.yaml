@@ -1,6 +1,6 @@
 corpus_type: nvqs_agent_corpus
 schema_version: 2
-generated_at: "2026-11-05T01:31:08+07:00"
+generated_at: "2026-11-12T03:52:44+07:00"
 language: vi
 topic: nghĩa vụ quân sự Việt Nam
 normalization_profile: "vi-legal-v2"
@@ -282,7 +282,7 @@ documents:
     pdf_declared_page_count: 6
     pdf_page_count: 6
     text_unit_count: 1
-    text_char_count: 16689
+    text_char_count: 16742
     nonempty_text_units: 1
     text_source: "online_html"
     text_source_tier: "secondary_fulltext"
@@ -333,3 +333,43 @@ documents:
     download_url: "https://drive.google.com/file/d/1zoSFvmzsbaNQk_Dd1lytBe_9Kprp1Ft0/view?usp=drivesdk"
     text_source_url: "https://www.phapluatquansu.vn/2026/11/huong-dan-8428qy-tr-ngay-04112026-cua.html"
     text_source_page: null
+  - document_index: 17
+    id: "SRC-SELECT-AMEND-2026"
+    identifier: "173/2026/TT-BQP"
+    title: "Thông tư sửa đổi, bổ sung một số điều của các Thông tư của Bộ trưởng Bộ Quốc phòng về tính tuổi quân; tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; tuyển chọn và gọi công dân nhập ngũ; cấp, quản lý, sử dụng Giấy chứng minh, Thẻ; phong, thăng, giáng, bổ nhiệm, giáng chức, cách chức và thực hiện xuất ngũ đối với hạ sĩ quan, binh sĩ; hình thức, nội dung, thời gian sinh hoạt của quân nhân dự bị"
+    source_pdf: "../van-ban-nguon/173-2026-TT-BQP-Sua-doi-tuyen-quan-va-quan-ly-quan-nhan.pdf"
+    text_file: "text/SRC-SELECT-AMEND-2026.md"
+    pdf_declared_page_count: 26
+    pdf_page_count: 26
+    text_unit_count: 1
+    text_char_count: 43649
+    nonempty_text_units: 1
+    text_source: "online_html"
+    text_source_tier: "secondary_fulltext"
+    quality_status: "ok"
+    text_normalization_profile: "vi-legal-v2"
+    source_provenance: "official_attachment"
+    source_page: "https://vanban.chinhphu.vn/?docid=220144&orggroupid=4&pageid=27160"
+    download_url: "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/11/173bqp.signed.pdf"
+    text_source_url: "https://lawplayer.com/vn/act/vn-congbao-470892"
+    text_source_page: "https://vanban.chinhphu.vn/?docid=220144&orggroupid=4&pageid=27160"
+  - document_index: 18
+    id: "SRC-DRUG-LISTS-2026"
+    identifier: "28/2026/NĐ-CP"
+    title: "Nghị định quy định các danh mục chất ma túy và tiền chất"
+    source_pdf: "../van-ban-nguon/28-2026-ND-CP-Danh-muc-chat-ma-tuy-va-tien-chat.pdf"
+    text_file: "text/SRC-DRUG-LISTS-2026.md"
+    pdf_declared_page_count: 40
+    pdf_page_count: 40
+    text_unit_count: 1
+    text_char_count: 85094
+    nonempty_text_units: 1
+    text_source: "online_html"
+    text_source_tier: "secondary_fulltext"
+    quality_status: "ok"
+    text_normalization_profile: "vi-legal-v2"
+    source_provenance: "official_attachment"
+    source_page: "https://vanban.chinhphu.vn/?classid=0&docid=216717&pageid=27160"
+    download_url: "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/28-cp.signed.pdf"
+    text_source_url: "https://lawplayer.com/vn/act/vn-vbpl-187050"
+    text_source_page: "https://vanban.chinhphu.vn/?classid=0&docid=216717&pageid=27160"

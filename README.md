@@ -6,7 +6,7 @@ và tái tạo dữ liệu.
 
 [![Schema](https://img.shields.io/badge/corpus-schema%20v2-2563eb)](./agent-corpus/README.md)
 [![Ngôn ngữ](https://img.shields.io/badge/ng%C3%B4n%20ng%E1%BB%AF-ti%E1%BA%BFng%20Vi%E1%BB%87t-dc2626)](./agent-corpus/)
-[![Phạm vi](https://img.shields.io/badge/v%C4%83n%20b%E1%BA%A3n-16-0f766e)](./van-ban-nguon/MANIFEST.yaml)
+[![Phạm vi](https://img.shields.io/badge/v%C4%83n%20b%E1%BA%A3n-18-0f766e)](./van-ban-nguon/MANIFEST.yaml)
 
 > Đây là bộ dữ liệu phục vụ nghiên cứu, tra cứu và xây dựng ứng dụng. Không phải
 > ý kiến tư vấn pháp lý. Khi dùng để giải quyết một trường hợp cụ thể, cần kiểm
@@ -29,13 +29,14 @@ nghĩa vụ quân sự.
 
 ## Phạm vi dữ liệu hiện tại
 
-Bộ nguồn hiện có **16 văn bản PDF**, gồm:
+Bộ nguồn hiện có **18 văn bản PDF**, gồm:
 
 | Nhóm | Văn bản chính |
 | --- | --- |
 | Luật NVQS | 78/2015/QH13; 98/2025/QH15; 14/2026/QH16; 133/2026/VBHN-LQ-VPQH |
-| Tuyển chọn, gọi nhập ngũ | 36/VBHN-BQP; 68/2025/TT-BQP |
+| Tuyển chọn, gọi nhập ngũ | 36/VBHN-BQP; 68/2025/TT-BQP; 173/2026/TT-BQP |
 | Khám và tiêu chuẩn sức khỏe | 105/2023/TT-BQP; 88/2025/VBHN-BQP; 106/2025/TT-BQP; 8428/QY-ĐTr |
+| Điều kiện loại trừ liên quan sơ tuyển | 28/2026/NĐ-CP về danh mục chất ma túy và tiền chất |
 | Đăng ký, thủ tục NVQS | 75/VBHN-BQP; 6375/QĐ-BQP |
 | Quốc phòng, quân sự và xử phạt | 220/2025/NĐ-CP; 218/2025/NĐ-CP |
 | Nghĩa vụ tham gia CAND | 101/2025/TT-BCA |
@@ -159,6 +160,13 @@ Hai trường hợp cần chú ý:
 - `8428/QY-ĐTr`: PDF hiện có từ tệp đính kèm công khai qua trang mirror; chưa xác
   nhận được URL tệp trực tiếp công khai trên cổng Bộ Quốc phòng. Khi dùng cho
   quyết định cá nhân, cần đối chiếu bản do cơ quan quân sự ban hành.
+- `173/2026/TT-BQP` và `28/2026/NĐ-CP`: PDF lấy từ tệp đính kèm chính thức trên
+  Cổng thông tin điện tử Chính phủ; bản `.md` ưu tiên toàn văn HTML từ nguồn đọc
+  công khai để agent tìm kiếm, còn PDF vẫn là bản đối chiếu pháp lý.
+- Hướng dẫn `8428/QY-ĐTr` còn dẫn chiếu `150/2026/TT-BQP` và `6098/QĐ-BQP`;
+  tại thời điểm cập nhật chưa tìm được bản PDF công khai có thể xác minh provenance
+  trên Cổng văn bản Chính phủ hoặc phapluatquansu.vn, nên chưa đưa bản không kiểm
+  chứng vào corpus. Đây là hai mục cần rà lại khi nguồn công khai xuất hiện.
 
 URL nguồn và ghi chú provenance được giữ trong manifest và trong metadata của
 `documents.jsonl`; không nên xóa các trường này khi tạo bản dẫn xuất.
@@ -197,13 +205,13 @@ Snapshot hiện tại của corpus:
 
 | Chỉ số | Giá trị |
 | --- | ---: |
-| Văn bản | 16 |
-| Nguồn text online | 14 |
+| Văn bản | 18 |
+| Nguồn text online | 16 |
 | PDF fallback | 2 |
-| Text unit | 38 |
-| Anchor | 986 |
-| Tổng ký tự text | 1.308.980 |
-| PDF khớp manifest | 16/16 |
+| Text unit | 40 |
+| Anchor | 1.027 |
+| Tổng ký tự text | 1.437.776 |
+| PDF khớp manifest | 18/18 |
 | `quality_status: ok` | 16/16 |
 
 Kiểm tra cú pháp công cụ và trạng thái Git:
