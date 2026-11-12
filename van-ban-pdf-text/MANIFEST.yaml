@@ -2,7 +2,7 @@ manifest_type: nvqs_text_pdf_alternates
 topic: nghĩa vụ quân sự Việt Nam
 downloaded_at: 2026-11-12
 timezone: Asia/Saigon
-base_directory: C:\Users\NhanAZ\Documents\ChatGPT\NVQS\du-lieu-phap-luat-nghia-vu-quan-su\van-ban-pdf-text
+base_directory: van-ban-pdf-text
 format: PDF
 policy:
   - Giữ nguyên tệp PDF tải về từ nguồn công khai; không OCR và không dựng lại PDF.

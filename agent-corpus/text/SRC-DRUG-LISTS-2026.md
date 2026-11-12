@@ -764,7 +764,7 @@ IVA. Các tiền chất thiết yếu, tham gia vào cấu trúc chất ma túy,
 Các chất và muối, ester, đồng phân, muối của đồng phân có thể tồn tại của các chất sau:
 
 | STT | Tên chất | Tên khoa học | Mã thông tin CAS | Mã số hàng hóa | Cơ quan quản lý |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | 1 | 1-boc-4-AP; tert -Butyl 4-(phenylamino) piperidine-1 -carboxylate | 4-(phenylamino)-1 - piperidinecarboxylic acid, 1,1 dimethylethyl ester) | 125541-22-2 | 2933.39.90 | Bộ Công an |
 | 2 | 1 -boc-4-piperidone; tert -Butyl 4-oxopiperidine-1- carboxylate | 1 -piperidinecarboxylic acid, 4-oxo, 1,1- dimethylethyl ester | 79099-07-3 | 2933.39.90 | Bộ Công an |
 | 3 | P-2-P methyl glycidic acid (BMK glycidic acid) | 2-oxiranecarboxylic acid, 2-methyl-3-phenyl- | 25547-51-7 | 2918.99.00 | Bộ Công an |
@@ -802,7 +802,7 @@ IVB. Các tiền chất thiết yếu, tham gia vào cấu trúc chất ma túy,
 Các chất và muối, ester, đồng phân, muối của đồng phân có thể tồn tại của các chất sau:
 
 | STT | Tên chất | Tên khoa học | Mã thông tin CAS | Mã số hàng hóa | Cơ quan quản lý |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | 1 | 1,4-Butanediol; BD; BDO | Butane-1,4-diol | 110-63-4 | 2905.39.00 | Bộ Công Thương |
 | 2 | 1-phenyl-2-propanone; P2P | 1-phenyl-2-propanone | 103-79-7 | 2914.31.00 | Bộ Công Thương |
 | 3 | Acetic anhydride | Acetic oxide | 108-24-7 | 2915.24.00 | Bộ Công Thương |
@@ -837,7 +837,7 @@ Các chất và muối, ester, đồng phân, muối của đồng phân có th�
 IVC. Các tiền chất là hóa chất, dung môi, chất xúc tác dùng trong quá trình sản xuất chất ma túy.
 
 | STT | Tên chất | Tên khoa học | Mã thông tin CAS | Mã số hàng hóa | Cơ quan quản lý |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | 1 | Acetic acid | Ethanoic acid | 64-19-7 | 2915.21.00 | Bộ Công Thương, Bộ NN&MT |
 | 2 | Acetone | 2-propanone | 67-64-1 | 2914.11.00 | Bộ Công Thương, Bộ NN&MT |
 | 3 | Acetyl chloride | Acetyl chloride | 75-36-5 | 2915.90.90 | Bộ Công Thương, Bộ NN&MT |

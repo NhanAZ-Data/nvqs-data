@@ -51,8 +51,6 @@ Danh mục đầy đủ, tên tệp, hash và provenance nằm trong
 .
 ├── README.md                         # Tài liệu tổng quan của repository
 ├── nvqs-law-2026-agent-brief.md      # Brief nghiệp vụ và định hướng tra cứu
-├── so-do-ung-xu-khi-nghi-ghi-sai-ket-qua-kham-nvqs.md
-│                                      # Sơ đồ ứng xử, khiếu nại, tố cáo, giám định
 ├── van-ban-nguon/                    # PDF nguồn, manifest và metadata tải về
 │   ├── MANIFEST.yaml
 │   └── *.pdf
@@ -143,10 +141,6 @@ Get-Content .\agent-corpus\pages.jsonl |
 
 Nếu cần hiểu đầy đủ trường dữ liệu, đọc
 [`agent-corpus/README.md`](./agent-corpus/README.md) trước khi xử lý JSONL.
-
-Tài liệu thực hành về cách bảo toàn chứng cứ và xử lý khi nghi ngờ ghi sai kết
-quả khám sức khỏe nằm tại
-[`so-do-ung-xu-khi-nghi-ghi-sai-ket-qua-kham-nvqs.md`](./so-do-ung-xu-khi-nghi-ghi-sai-ket-qua-kham-nvqs.md).
 
 ## Schema corpus v2
 

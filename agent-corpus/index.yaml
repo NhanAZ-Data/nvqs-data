@@ -1,6 +1,6 @@
 corpus_type: nvqs_agent_corpus
 schema_version: 2
-generated_at: "2026-11-12T03:52:44+07:00"
+generated_at: "2026-11-12T19:16:50+07:00"
 language: vi
 topic: nghĩa vụ quân sự Việt Nam
 normalization_profile: "vi-legal-v2"
@@ -12,6 +12,7 @@ artifacts:
   anchors_jsonl: anchors.jsonl
   schema_json: schema.json
   text_directory: text/
+  reader_text_directory: ../van-ban-md/
 documents:
   - document_index: 1
     id: "SRC-LAW-2015"
@@ -19,6 +20,7 @@ documents:
     title: "Luật Nghĩa vụ quân sự"
     source_pdf: "../van-ban-nguon/78-2015-QH13-Luat-Nghia-vu-quan-su.pdf"
     text_file: "text/SRC-LAW-2015.md"
+    reader_text_file: "../van-ban-md/78-2015-QH13-Luat-Nghia-vu-quan-su.md"
     pdf_declared_page_count: 25
     pdf_page_count: 25
     text_unit_count: 1
@@ -39,6 +41,7 @@ documents:
     title: "Luật sửa đổi, bổ sung một số điều của 11 luật về quân sự, quốc phòng"
     source_pdf: "../van-ban-nguon/98-2025-QH15-Sua-doi-11-luat-quan-su-quoc-phong.pdf"
     text_file: "text/SRC-LAW-2025.md"
+    reader_text_file: "../van-ban-md/98-2025-QH15-Sua-doi-11-luat-quan-su-quoc-phong.md"
     pdf_declared_page_count: 25
     pdf_page_count: 25
     text_unit_count: 1
@@ -59,6 +62,7 @@ documents:
     title: "Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng"
     source_pdf: "../van-ban-nguon/14-2026-QH16-Sua-doi-09-luat-quan-su-quoc-phong.pdf"
     text_file: "text/SRC-LAW-2026.md"
+    reader_text_file: "../van-ban-md/14-2026-QH16-Sua-doi-09-luat-quan-su-quoc-phong.md"
     pdf_declared_page_count: 8
     pdf_page_count: 8
     text_unit_count: 1
@@ -79,6 +83,7 @@ documents:
     title: "Văn bản hợp nhất Luật Nghĩa vụ quân sự"
     source_pdf: "../van-ban-nguon/133-2026-VBHN-LQ-VPQH-Luat-Nghia-vu-quan-su.pdf"
     text_file: "text/SRC-LAW-CONSOLIDATED.md"
+    reader_text_file: "../van-ban-md/133-2026-VBHN-LQ-VPQH-Luat-Nghia-vu-quan-su.md"
     pdf_declared_page_count: 26
     pdf_page_count: 26
     text_unit_count: 1
@@ -99,6 +104,7 @@ documents:
     title: "Văn bản hợp nhất quy định tuyển chọn và gọi công dân nhập ngũ"
     source_pdf: "../van-ban-nguon/36-2025-VBHN-BQP-Tuyen-chon-goi-cong-dan-nhap-ngu.pdf"
     text_file: "text/SRC-SELECT-2025.md"
+    reader_text_file: "../van-ban-md/36-2025-VBHN-BQP-Tuyen-chon-goi-cong-dan-nhap-ngu.md"
     pdf_declared_page_count: 10
     pdf_page_count: 10
     text_unit_count: 1
@@ -119,6 +125,7 @@ documents:
     title: "Văn bản hợp nhất quy định tiêu chuẩn sức khỏe, khám sức khỏe"
     source_pdf: "../van-ban-nguon/88-2025-VBHN-BQP-Tieu-chuan-suc-khoe.pdf"
     text_file: "text/SRC-HEALTH-2025.md"
+    reader_text_file: "../van-ban-md/88-2025-VBHN-BQP-Tieu-chuan-suc-khoe.md"
     pdf_declared_page_count: 120
     pdf_page_count: 120
     text_unit_count: 1
@@ -139,10 +146,11 @@ documents:
     title: "Thông tư sửa đổi quy định tiêu chuẩn sức khỏe, khám sức khỏe"
     source_pdf: "../van-ban-nguon/106-2025-TT-BQP-Sua-doi-tieu-chuan-suc-khoe.pdf"
     text_file: "text/SRC-HEALTH-AMEND.md"
+    reader_text_file: "../van-ban-md/106-2025-TT-BQP-Sua-doi-tieu-chuan-suc-khoe.md"
     pdf_declared_page_count: 50
     pdf_page_count: 50
     text_unit_count: 1
-    text_char_count: 60030
+    text_char_count: 60180
     nonempty_text_units: 1
     text_source: "online_html"
     text_source_tier: "secondary_fulltext"
@@ -159,6 +167,7 @@ documents:
     title: "Văn bản hợp nhất về trình tự, thủ tục đăng ký và chế độ trong thời gian đăng ký, khám, kiểm tra sức khỏe NVQS"
     source_pdf: "../van-ban-nguon/75-2025-VBHN-BQP-Trinh-tu-thu-tuc-NVQS.pdf"
     text_file: "text/SRC-PROCEDURE.md"
+    reader_text_file: "../van-ban-md/75-2025-VBHN-BQP-Trinh-tu-thu-tuc-NVQS.md"
     pdf_declared_page_count: 14
     pdf_page_count: 14
     text_unit_count: 1
@@ -179,6 +188,7 @@ documents:
     title: "Quyết định công bố thủ tục hành chính được sửa đổi, bổ sung lĩnh vực nghĩa vụ quân sự"
     source_pdf: "../van-ban-nguon/6375-2025-QD-BQP-Thu-tuc-hanh-chinh-NVQS.pdf"
     text_file: "text/SRC-REGISTRATION-ADMIN.md"
+    reader_text_file: "../van-ban-md/6375-2025-QD-BQP-Thu-tuc-hanh-chinh-NVQS.md"
     pdf_declared_page_count: 18
     pdf_page_count: 18
     text_unit_count: 18
@@ -199,6 +209,7 @@ documents:
     title: "Nghị định sửa đổi một số nghị định trong lĩnh vực quốc phòng, quân sự khi tổ chức chính quyền địa phương hai cấp"
     source_pdf: "../van-ban-nguon/220-2025-ND-CP-Chinh-quyen-dia-phuong-hai-cap-quoc-phong-quan-su.pdf"
     text_file: "text/SRC-LOCAL-GOV.md"
+    reader_text_file: "../van-ban-md/220-2025-ND-CP-Chinh-quyen-dia-phuong-hai-cap-quoc-phong-quan-su.md"
     pdf_declared_page_count: 29
     pdf_page_count: 29
     text_unit_count: 1
@@ -219,6 +230,7 @@ documents:
     title: "Nghị định xử phạt vi phạm hành chính trong lĩnh vực quốc phòng, cơ yếu"
     source_pdf: "../van-ban-nguon/218-2025-ND-CP-Xu-phat-quoc-phong-co-yeu.pdf"
     text_file: "text/SRC-PENALTY.md"
+    reader_text_file: "../van-ban-md/218-2025-ND-CP-Xu-phat-quoc-phong-co-yeu.md"
     pdf_declared_page_count: 47
     pdf_page_count: 47
     text_unit_count: 1
@@ -239,6 +251,7 @@ documents:
     title: "Thông tư quy định tuyển chọn và thực hiện chế độ, chính sách đối với công dân thực hiện nghĩa vụ tham gia Công an nhân dân"
     source_pdf: "../van-ban-nguon/101-2025-TT-BCA-Nghia-vu-tham-gia-CAND.pdf"
     text_file: "text/SRC-CAND.md"
+    reader_text_file: "../van-ban-md/101-2025-TT-BCA-Nghia-vu-tham-gia-CAND.md"
     pdf_declared_page_count: 29
     pdf_page_count: 29
     text_unit_count: 1
@@ -259,6 +272,7 @@ documents:
     title: "Bộ luật Hình sự, bản toàn văn có Điều 332"
     source_pdf: "../van-ban-nguon/100-2015-QH13-Bo-luat-hinh-su-toan-van.pdf"
     text_file: "text/SRC-CRIMINAL.md"
+    reader_text_file: "../van-ban-md/100-2015-QH13-Bo-luat-hinh-su-toan-van.md"
     pdf_declared_page_count: 155
     pdf_page_count: 155
     text_unit_count: 1
@@ -279,10 +293,11 @@ documents:
     title: "Thông tư sửa đổi quy định tuyển chọn và gọi công dân nhập ngũ"
     source_pdf: "../van-ban-nguon/68-2025-TT-BQP-Sua-doi-TT148-tuyen-chon-goi-nhap-ngu.pdf"
     text_file: "text/SRC-SELECT-AMEND-2025.md"
+    reader_text_file: "../van-ban-md/68-2025-TT-BQP-Sua-doi-TT148-tuyen-chon-goi-nhap-ngu.md"
     pdf_declared_page_count: 6
     pdf_page_count: 6
     text_unit_count: 1
-    text_char_count: 16742
+    text_char_count: 16713
     nonempty_text_units: 1
     text_source: "online_html"
     text_source_tier: "secondary_fulltext"
@@ -299,6 +314,7 @@ documents:
     title: "Thông tư quy định tiêu chuẩn sức khỏe, khám sức khỏe"
     source_pdf: "../van-ban-nguon/105-2023-TT-BQP-Tieu-chuan-suc-khoe-kham-suc-khoe.pdf"
     text_file: "text/SRC-HEALTH-BASE-2023.md"
+    reader_text_file: "../van-ban-md/105-2023-TT-BQP-Tieu-chuan-suc-khoe-kham-suc-khoe.md"
     pdf_declared_page_count: 105
     pdf_page_count: 105
     text_unit_count: 1
@@ -319,6 +335,7 @@ documents:
     title: "Hướng dẫn sơ tuyển, khám sức khỏe thực hiện nghĩa vụ quân sự năm 2027"
     source_pdf: "../van-ban-nguon/8428-2026-QY-DTr-Huong-dan-so-tuyen-kham-suc-khoe-NVQS-2027.pdf"
     text_file: "text/SRC-HEALTH-GUIDANCE-2027.md"
+    reader_text_file: "../van-ban-md/8428-2026-QY-DTr-Huong-dan-so-tuyen-kham-suc-khoe-NVQS-2027.md"
     pdf_declared_page_count: 6
     pdf_page_count: 6
     text_unit_count: 6
@@ -339,6 +356,7 @@ documents:
     title: "Thông tư sửa đổi, bổ sung một số điều của các Thông tư của Bộ trưởng Bộ Quốc phòng về tính tuổi quân; tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; tuyển chọn và gọi công dân nhập ngũ; cấp, quản lý, sử dụng Giấy chứng minh, Thẻ; phong, thăng, giáng, bổ nhiệm, giáng chức, cách chức và thực hiện xuất ngũ đối với hạ sĩ quan, binh sĩ; hình thức, nội dung, thời gian sinh hoạt của quân nhân dự bị"
     source_pdf: "../van-ban-nguon/173-2026-TT-BQP-Sua-doi-tuyen-quan-va-quan-ly-quan-nhan.pdf"
     text_file: "text/SRC-SELECT-AMEND-2026.md"
+    reader_text_file: "../van-ban-md/173-2026-TT-BQP-Sua-doi-tuyen-quan-va-quan-ly-quan-nhan.md"
     pdf_declared_page_count: 26
     pdf_page_count: 26
     text_unit_count: 1
@@ -359,10 +377,11 @@ documents:
     title: "Nghị định quy định các danh mục chất ma túy và tiền chất"
     source_pdf: "../van-ban-nguon/28-2026-ND-CP-Danh-muc-chat-ma-tuy-va-tien-chat.pdf"
     text_file: "text/SRC-DRUG-LISTS-2026.md"
+    reader_text_file: "../van-ban-md/28-2026-ND-CP-Danh-muc-chat-ma-tuy-va-tien-chat.md"
     pdf_declared_page_count: 40
     pdf_page_count: 40
     text_unit_count: 1
-    text_char_count: 85094
+    text_char_count: 85184
     nonempty_text_units: 1
     text_source: "online_html"
     text_source_tier: "secondary_fulltext"

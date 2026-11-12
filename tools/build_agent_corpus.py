@@ -116,6 +116,10 @@ def normalize_text(value: str) -> str:
         else line
         for line in lines
     ]
+    lines = [
+        "| --- | --- | --- | --- | --- | --- |" if line == "|||||||" else line
+        for line in lines
+    ]
     deduplicated: list[str] = []
     for line in lines:
         if line and deduplicated and deduplicated[-1] == line:
@@ -345,6 +349,7 @@ def write_index_yaml(path: Path, metadata: list[dict], generated_at: str) -> Non
         "  anchors_jsonl: anchors.jsonl",
         "  schema_json: schema.json",
         "  text_directory: text/",
+        "  reader_text_directory: ../van-ban-md/",
         "documents:",
     ]
     for item in metadata:
@@ -355,6 +360,7 @@ def write_index_yaml(path: Path, metadata: list[dict], generated_at: str) -> Non
             "title",
             "source_pdf",
             "text_file",
+            "reader_text_file",
             "pdf_declared_page_count",
             "pdf_page_count",
             "text_unit_count",
@@ -467,6 +473,7 @@ def main() -> None:
             status = "ok"
         text_file = f"text/{document_id}.md"
         reader_text_filename = f"{Path(filename).stem}.md"
+        reader_text_file = f"../van-ban-md/{reader_text_filename}"
         corpus_pdf_relative = f"../van-ban-nguon/{filename}"
         reader_pdf_relative = f"../van-ban-nguon/{filename}"
 
@@ -495,6 +502,7 @@ def main() -> None:
             "pdf_sha256": actual_sha256,
             "pdf_manifest_match": manifest_match,
             "text_file": text_file,
+            "reader_text_file": reader_text_file,
             "text_source": text_source,
             "text_source_url": online_source.get("url"),
             "text_source_page": online_source.get("source_page"),

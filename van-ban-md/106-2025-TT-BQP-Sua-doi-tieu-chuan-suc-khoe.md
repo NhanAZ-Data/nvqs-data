@@ -1399,7 +1399,7 @@ Năm ……..
 I. TỔNG HỢP KẾT QUẢ
 
 | N ội dung | Đơn v ị | | | | T ổng |
-|||||||
+| --- | --- | --- | --- | --- | --- |
 | | …. | …. | …. | …. | |
 | 1. H ồ sơ nhận | | | | | |
 | S ức khỏe loại 1 | | | | | |
@@ -1509,7 +1509,7 @@ I. KẾT QUẢ KHÁM, PHÂN LOẠI SỨC KHỎE
 II. DANH SÁCH KHÔNG ĐẠT TIÊU CHUẨN SỨC KHỎE
 
 | TT | H ọ và tên | Năm sinh | Quê quán | HĐ khám sơ tuy ển SK TSQS | Phân lo ại sức khỏe (Lý do) |
-|||||||
+| --- | --- | --- | --- | --- | --- |
 | | | | | | |
 
 Nơi nh ận: - C ục Quân y; - ……….; - Lưu … | TH Ủ TRƯỞNG ĐƠN VỊ (Ký tên, ghi rõ h ọ tên và đóng dấu)
@@ -1528,7 +1528,7 @@ Năm …….
 I. KẾT QUẢ KHÁM, PHÂN LOẠI SỨC KHỎE
 
 | TT | N ội dung | S ố lượng | | | |
-|||||||
+| --- | --- | --- | --- | --- | --- |
 | | | Trư ờng... | Trư ờng... | Trư ờng... | Trư ờng... |
 | 1 | S ố lượng thí sinh khám | | | | |
 | | S ức khỏe loại 1 | | | | |
@@ -1570,7 +1570,7 @@ I. KẾT QUẢ KHÁM, PHÂN LOẠI SỨC KHỎE
 II. DANH SÁCH KHÔNG ĐẠT TIÊU CHUẨN SỨC KHỎE
 
 | TT | H ọ và tên | Năm sinh | Quê quán | H ọc viện Trường | Phân lo ại sức khỏe (Lý do) |
-|||||||
+| --- | --- | --- | --- | --- | --- |
 | | | | | | |
 
 Nơi nh ận: - C ục Quân y; - ……….; - Lưu … | TH Ủ TRƯỞNG ĐƠN VỊ (Ký tên, ghi rõ h ọ tên và đóng dấu)
@@ -1649,7 +1649,7 @@ Kết quả khám phúc tra sức khỏe năm
 I. KẾT QUẢ KHÁM, PHÂN LOẠI SỨC KHỎE
 
 | TT | N ội dung | S ố lượng | | | |
-|||||||
+| --- | --- | --- | --- | --- | --- |
 | | | Đơn v ị... | Đơn v ị... | Đơn v ị... | Đơn v ị... |
 | 1 | S ố lượng khám phúc tra | | | | |
 | | S ức khỏe loại 1 | | | | |

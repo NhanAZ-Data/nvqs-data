@@ -2,7 +2,7 @@ manifest_type: nvqs_source_documents
 topic: nghĩa vụ quân sự Việt Nam
 downloaded_at: 2026-11-12
 timezone: Asia/Saigon
-base_directory: C:\Users\NhanAZ\Documents\ChatGPT\NVQS\van-ban-nguon
+base_directory: van-ban-nguon
 format: PDF
 download_policy:
   - Tải tệp văn bản gốc hoặc văn bản hợp nhất từ cổng chính thức khi có thể.
@@ -150,7 +150,7 @@ documents:
 
 additional_documents:
   description: Văn bản bổ sung đã tải từ tệp đính kèm công khai; không còn dùng bản sao từ thư mục cá nhân làm corpus.
-  corpus_directory: C:\Users\NhanAZ\Documents\ChatGPT\NVQS\van-ban-nguon
+  corpus_directory: van-ban-nguon
   documents:
     - id: SRC-SELECT-AMEND-2025
       title: Thông tư sửa đổi quy định tuyển chọn và gọi công dân nhập ngũ

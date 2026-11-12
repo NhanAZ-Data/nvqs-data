@@ -301,15 +301,15 @@ Thông tư số 167/2026/TT-BTC Quy định miễn phí thăm quan vào Ngày V�
 ●
 Còn hiệu lực
 📄
-Thông tư số 178/2026/TT-BQP QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN VỀ TỔ CHỨC, HOẠT ĐỘNG CỦA HỘI THẨM QUÂN NHÂN VÀ ĐOÀN HỘI THẨM QUÂN NHÂN TÒA ÁN QUÂN SỰ TRONG QUÂN ĐỘI NHÂN DÂN VIỆT NAM
-178/2026/TT-BQP
+Thông tư số 181/2026/TT-BQP QUY ĐỊNH QUẢN LÝ NHIỆM VỤ KHOA HỌC, CÔNG NGHỆ VÀ ĐỔI MỚI SÁNG TẠO TRONG BỘ QUỐC PHÒNG
+181/2026/TT-BQP
 📅
-03/11/2026
+04/11/2026
 ●
 Chưa xác định
 📄
-Thông tư số 179/2026/TT-BQP Bãi bỏ một số văn bản quy phạm pháp luật thuộc thẩm quyền của Bộ trưởng Bộ Quốc phòng ban hành, liên tịch ban hành
-179/2026/TT-BQP
+Thông tư số 178/2026/TT-BQP QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN VỀ TỔ CHỨC, HOẠT ĐỘNG CỦA HỘI THẨM QUÂN NHÂN VÀ ĐOÀN HỘI THẨM QUÂN NHÂN TÒA ÁN QUÂN SỰ TRONG QUÂN ĐỘI NHÂN DÂN VIỆT NAM
+178/2026/TT-BQP
 📅
 03/11/2026
 ●
