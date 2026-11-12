@@ -381,11 +381,22 @@ def main() -> None:
     parser.add_argument("--manifest", type=Path, required=True)
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--online-sources", type=Path, required=False)
+    parser.add_argument(
+        "--reader-output",
+        type=Path,
+        required=False,
+        help="Directory for reader-facing Markdown copies (defaults to a sibling van-ban-md directory)",
+    )
     args = parser.parse_args()
 
     root = args.root.resolve()
     manifest_path = args.manifest.resolve()
     output = args.output.resolve()
+    reader_output = (
+        args.reader_output.resolve()
+        if args.reader_output
+        else output.parent / "van-ban-md"
+    )
     manifest = yaml.safe_load(manifest_path.read_text(encoding="utf-8"))
     documents = flatten_documents(manifest)
     online_config = {}
@@ -395,6 +406,7 @@ def main() -> None:
 
     text_dir = output / "text"
     text_dir.mkdir(parents=True, exist_ok=True)
+    reader_output.mkdir(parents=True, exist_ok=True)
     metadata: list[dict] = []
     pages_jsonl: list[dict] = []
     anchors: list[dict] = []
@@ -454,6 +466,9 @@ def main() -> None:
         else:
             status = "ok"
         text_file = f"text/{document_id}.md"
+        reader_text_filename = f"{Path(filename).stem}.md"
+        corpus_pdf_relative = f"../van-ban-nguon/{filename}"
+        reader_pdf_relative = f"../van-ban-nguon/{filename}"
 
         manifest_match = {
             "page_count": document.get("pages") == actual_pdf_pages,
@@ -468,7 +483,7 @@ def main() -> None:
             "id": document_id,
             "identifier": document.get("identifier"),
             "title": document.get("title"),
-            "source_pdf": f"../van-ban-nguon/{filename}",
+            "source_pdf": corpus_pdf_relative,
             "source_pdf_filename": filename,
             "source_pdf_page": document.get("source_page"),
             "source_pdf_download_url": document.get("download_url"),
@@ -504,7 +519,7 @@ def main() -> None:
             "document_id": document_id,
             "title": document.get("title"),
             "identifier": document.get("identifier"),
-            "source_pdf": f"../van-ban-nguon/{filename}",
+            "source_pdf": corpus_pdf_relative,
             "source_pdf_page": document.get("source_page"),
             "pdf_sha256": actual_sha256,
             "text_source": text_source,
@@ -521,7 +536,7 @@ def main() -> None:
             "",
             f"- Mã: `{document_id}`",
             f"- Số hiệu: `{document.get('identifier') or ''}`",
-            f"- PDF gốc: `../van-ban-nguon/{filename}`",
+            f"- PDF gốc: `{corpus_pdf_relative}`",
             f"- SHA-256 PDF: `{actual_sha256}`",
             f"- Nguồn text: `{text_source}`",
             f"- Chuẩn hóa: `{NORMALIZATION_PROFILE}`",
@@ -564,6 +579,12 @@ def main() -> None:
             )
         (output / text_file).parent.mkdir(parents=True, exist_ok=True)
         (output / text_file).write_text("\n".join(md_parts), encoding="utf-8", newline="\n")
+        reader_md = "\n".join(md_parts).replace(corpus_pdf_relative, reader_pdf_relative)
+        (reader_output / reader_text_filename).write_text(
+            reader_md,
+            encoding="utf-8",
+            newline="\n",
+        )
         anchors.extend(find_anchors(document_id, document_index, pages, source_kind))
 
     output.mkdir(parents=True, exist_ok=True)

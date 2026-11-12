@@ -56,6 +56,9 @@ Danh mục đầy đủ, tên tệp, hash và provenance nằm trong
 ├── van-ban-nguon/                    # PDF nguồn, manifest và metadata tải về
 │   ├── MANIFEST.yaml
 │   └── *.pdf
+├── van-ban-md/                       # Toàn văn Markdown dành cho người đọc
+│   ├── README.md
+│   └── *.md                           # Cùng tên PDF, chỉ đổi .pdf thành .md
 ├── agent-corpus/                     # Corpus đã chuẩn hóa cho agent
 │   ├── README.md                     # Mô tả schema và cách truy vấn
 │   ├── schema.json                   # Hợp đồng dữ liệu schema v2
@@ -63,12 +66,23 @@ Danh mục đầy đủ, tên tệp, hash và provenance nằm trong
 │   ├── documents.jsonl               # Một record cho mỗi văn bản
 │   ├── pages.jsonl                   # Các đơn vị văn bản để đọc/tìm kiếm
 │   ├── anchors.jsonl                 # Chương, mục, điều, phụ lục, biểu mẫu
-│   └── text/                         # Văn bản Markdown theo từng tài liệu
+│   └── text/                         # Văn bản Markdown có metadata cho agent
 └── tools/
     ├── build_agent_corpus.py         # Tạo lại corpus
     ├── online_text_sources.yaml      # Registry nguồn HTML/DOC/DOCX
     └── extract_online_doc.ps1        # Hỗ trợ trích xuất DOC/DOCX trên Windows
 ```
+
+## Đọc toàn văn Markdown
+
+Thư mục [`van-ban-md/`](./van-ban-md/) chứa một file `.md` đầy đủ cho từng văn
+bản PDF trong `van-ban-nguon/`. Đây là bản dành cho người đọc: mở trực tiếp để
+đọc toàn văn, tìm kiếm bằng `Ctrl+F`, hoặc liên kết tới PDF gốc để đối chiếu
+chữ ký, dấu, bảng và bố cục.
+
+Các file trong `van-ban-md/` được tạo cùng lúc với `agent-corpus/text/` từ cùng
+một nguồn text. Không chỉnh sửa riêng một bản; khi cập nhật PDF hoặc nguồn text,
+hãy chạy lại công cụ dựng corpus để hai bản Markdown không bị lệch nội dung.
 
 ## Dùng nhanh cho agent
 
@@ -194,6 +208,9 @@ python .\tools\build_agent_corpus.py `
   --online-sources .\tools\online_text_sources.yaml `
   --output .\agent-corpus
 ```
+
+Lệnh trên đồng thời tạo/cập nhật các file đọc trực tiếp tại
+`van-ban-md/`. Có thể chỉ định thư mục khác bằng tùy chọn `--reader-output`.
 
 Lệnh trên có thể tải lại nội dung từ Internet. Kết quả phụ thuộc vào trạng thái
 nguồn online tại thời điểm chạy; sau khi tạo lại cần kiểm tra diff, hash và
