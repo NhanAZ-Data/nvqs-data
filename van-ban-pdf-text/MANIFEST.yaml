@@ -1,0 +1,284 @@
+manifest_type: nvqs_text_pdf_alternates
+topic: nghĩa vụ quân sự Việt Nam
+downloaded_at: 2026-11-12
+timezone: Asia/Saigon
+base_directory: C:\Users\NhanAZ\Documents\ChatGPT\NVQS\du-lieu-phap-luat-nghia-vu-quan-su\van-ban-pdf-text
+format: PDF
+policy:
+  - Giữ nguyên tệp PDF tải về từ nguồn công khai; không OCR và không dựng lại PDF.
+  - Ưu tiên Công báo điện tử, cổng Chính phủ, cổng Bộ hoặc bản PDF có thể xác minh provenance.
+  - Chỉ đưa vào đây tệp có lớp text hữu ích; PDF scan hoặc chỉ có tiêu đề/trang số bị loại.
+verification:
+  pdf_magic: "%PDF-"
+  verified_with: pypdf
+  sha256_algorithm: SHA-256
+  all_files_are_valid_pdf: true
+  all_files_have_page_count: true
+  text_quality_rule: Mọi trang nội dung phải có text trích xuất được; số ký tự phải đủ để đọc văn bản, không chỉ là header/trang số.
+
+documents:
+  - id: SRC-CRIMINAL-2015-CB-1263-1264
+    identifier: 100/2015/QH13
+    title: Bộ luật Hình sự
+    filename: 100-2015-QH13-Bo-luat-hinh-su-cong-bao-1263-1264.pdf
+    pages: 40
+    text_pages: 40
+    text_chars: 93104
+    bytes: 560737
+    sha256: FB68B47E2F03AC144B13F54A2C7F27E2BDFD5A82BEB4E2E83210718FB2ED7A3C
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/luat-so-100-2015-qh13-18442/28632.htm
+    source_file: In_CB 1263+1264 31-12-2015.signed.signed.pdf
+
+  - id: SRC-CRIMINAL-2015-CB-1265-1266
+    identifier: 100/2015/QH13
+    title: Bộ luật Hình sự
+    filename: 100-2015-QH13-Bo-luat-hinh-su-cong-bao-1265-1266.pdf
+    pages: 80
+    text_pages: 79
+    text_chars: 162557
+    bytes: 1436753
+    sha256: 1333A11D7A7753DA0661E9024D4468C6F4906F5181FC306EECE9C5EAF6AC8B64
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/luat-so-100-2015-qh13-18442/28632.htm
+    source_file: In_CB 1265+1266 31-12-2015.signed.signed.pdf
+
+  - id: SRC-CRIMINAL-2015-CB-1267-1268
+    identifier: 100/2015/QH13
+    title: Bộ luật Hình sự
+    filename: 100-2015-QH13-Bo-luat-hinh-su-cong-bao-1267-1268.pdf
+    pages: 84
+    text_pages: 83
+    text_chars: 188535
+    bytes: 1312576
+    sha256: 7FED155D2AAEE30E6BE697A7FD57CED9E893B486C0DE92B638E5C0DBBB00CFE9
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/luat-so-100-2015-qh13-18442/28632.htm
+    source_file: In_CB 1267+1268 31-12-2015.signed.signed.pdf
+
+  - id: SRC-CRIMINAL-2015-CB-1269-1270
+    identifier: 100/2015/QH13
+    title: Bộ luật Hình sự
+    filename: 100-2015-QH13-Bo-luat-hinh-su-cong-bao-1269-1270.pdf
+    pages: 69
+    text_pages: 69
+    text_chars: 146407
+    bytes: 758485
+    sha256: E9A58316CC35195A4BC5A9DA6A8A71FFCD8CC414EAC853FD965F8252DD5357B9
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/luat-so-100-2015-qh13-18442/28632.htm
+    source_file: In_CB 1269+1270 31-12-2015.signed.signed.signed.signed.signed.pdf
+
+  - id: SRC-LAW-2015-TEXT
+    identifier: 78/2015/QH13
+    title: Luật Nghĩa vụ quân sự
+    filename: 78-2015-QH13-Luat-Nghia-vu-quan-su.pdf
+    pages: 23
+    text_pages: 23
+    text_chars: 49202
+    bytes: 434360
+    sha256: CF8BCAA53DFE467F690AD4EB3407012F56521B6F2086B518DAADD477CEF64D6A
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/luat-so-78-2015-qh13-15264/10254.htm
+
+  - id: SRC-LAW-2025-TEXT
+    identifier: 98/2025/QH15
+    title: Luật sửa đổi, bổ sung một số điều của 11 luật về quân sự, quốc phòng
+    filename: 98-2025-QH15-Sua-doi-11-luat-quan-su-quoc-phong.pdf
+    pages: 31
+    text_pages: 31
+    text_chars: 58809
+    bytes: 434764
+    sha256: C9275A7388919C0112B790058A6C029865DC2F3CF6FBB5DA2E529A20A1040270
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/luat-so-98-2025-qh15-45533.htm
+
+  - id: SRC-LAW-2026-TEXT
+    identifier: 14/2026/QH16
+    title: Luật sửa đổi, bổ sung một số điều của 09 luật về quân sự, quốc phòng
+    filename: 14-2026-QH16-Sua-doi-09-luat-quan-su-quoc-phong.pdf
+    pages: 8
+    text_pages: 8
+    text_chars: 18202
+    bytes: 719509
+    sha256: 2C3FE14BFD5F02B173BB1037A50CEFBE3ECED92F81036BE10F71FFF7A0DEAB6B
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/luat-so-14-2026-qh16-470449.htm
+
+  - id: SRC-LAW-CONSOLIDATED-TEXT
+    identifier: 133/2026/VBHN-LQ-VPQH
+    title: Văn bản hợp nhất Luật Nghĩa vụ quân sự
+    filename: 133-2026-VBHN-LQ-VPQH-Luat-Nghia-vu-quan-su.pdf
+    pages: 26
+    text_pages: 26
+    text_chars: 59829
+    bytes: 817090
+    sha256: D3134138DCB212BBAD60FAB1CA607D33698D068D191693F4255677FD5E964375
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-133-2026-vbhn-lq-vpqh-470536.htm
+
+  - id: SRC-SELECT-2025-TEXT
+    identifier: 36/VBHN-BQP
+    title: Văn bản hợp nhất quy định tuyển chọn và gọi công dân nhập ngũ
+    filename: 36-2025-VBHN-BQP-Tuyen-chon-goi-cong-dan-nhap-ngu.pdf
+    pages: 10
+    text_pages: 10
+    text_chars: 25110
+    bytes: 520775
+    sha256: 56685B409E84B484F26AE4DAC54A37F8629AAE5BA3400786E4CAF2122435BB42
+    source_tier: public_legal_document_mirror
+    source_page: https://cdn.thuvienphapluat.vn/uploads/phapluat/2022-2/TTKP/VBHN-36-BQP.pdf
+    source_note: Bản PDF công khai có lớp text; bản PDF Công báo trong van-ban-nguon là bản scan.
+
+  - id: SRC-SELECT-AMEND-2025-TEXT
+    identifier: 68/2025/TT-BQP
+    title: Thông tư sửa đổi quy định tuyển chọn và gọi công dân nhập ngũ
+    filename: 68-2025-TT-BQP-Sua-doi-TT148-tuyen-chon-goi-nhap-ngu.pdf
+    pages: 6
+    text_pages: 6
+    text_chars: 14309
+    bytes: 326086
+    sha256: 08B0072FF84C1A42A5D3875CB97C9AC59528ABEB1B7CCE3F182040DF1C8AA39B
+    source_tier: public_legal_document_mirror
+    source_page: https://mod.gov.vn/home/vbpl/detaillg?current=true&urile=wcm%3Apath%3A%2Fmod%2Fsa-qlcddh%2Fsa-qlcddh-vbpl%2Fsa-qlcddh-vbpl-htvb%2Fsa-qlcddh-vbpl-qlnn%2F6f937bd5-fdc5-40ec-8422-b441710428f2
+    source_url: https://cdn.thuvienphapluat.vn/uploads/DanLuat-BanAn/TT68.2025BQP.pdf
+    source_note: Bản PDF công khai có lớp text; trang Bộ Quốc phòng xác nhận văn bản và tệp đính kèm tương ứng.
+
+  - id: SRC-HEALTH-CONSOLIDATED-CB-1641-1642
+    identifier: 88/VBHN-BQP
+    title: Văn bản hợp nhất quy định tiêu chuẩn sức khỏe, khám sức khỏe
+    filename: 88-2025-VBHN-BQP-Tieu-chuan-suc-khoe-cong-bao-1641-1642.pdf
+    pages: 85
+    text_pages: 85
+    text_chars: 171352
+    bytes: 988811
+    sha256: F44534123C59C5ADF26D2B1DCE2E87172237B68CADCD9350A85C4F855684C7F5
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-88-vbhn-bqp-46656.htm
+    source_url: https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/11/46656/59892-1-20251641-164288-vbhn-bqp.pdf
+
+  - id: SRC-HEALTH-CONSOLIDATED-CB-1643-1644
+    identifier: 88/VBHN-BQP
+    title: Văn bản hợp nhất quy định tiêu chuẩn sức khỏe, khám sức khỏe
+    filename: 88-2025-VBHN-BQP-Tieu-chuan-suc-khoe-cong-bao-1643-1644.pdf
+    pages: 63
+    text_pages: 63
+    text_chars: 77127
+    bytes: 627580
+    sha256: 35994B63768819CE48163BE3BF01FE8F473DA32D55F831E70A8FA3E41D8C71A0
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-88-vbhn-bqp-46656.htm
+    source_url: https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/11/46656/59895-1-20251643-164488-vbhn-bqp.pdf
+
+  - id: SRC-HEALTH-AMEND-TEXT
+    identifier: 106/2025/TT-BQP
+    title: Thông tư sửa đổi quy định tiêu chuẩn sức khỏe, khám sức khỏe
+    filename: 106-2025-TT-BQP-Sua-doi-tieu-chuan-suc-khoe.pdf
+    pages: 57
+    text_pages: 57
+    text_chars: 75925
+    bytes: 515623
+    sha256: 96426EDA1EBA34CA792020EB46B3833B136F49956DD2B1787B5A62830C0A3201
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/thong-tu-so-106-2025-tt-bqp-46312/59174.htm
+
+  - id: SRC-PROCEDURE-TEXT
+    identifier: 75/VBHN-BQP
+    title: Văn bản hợp nhất về trình tự, thủ tục đăng ký và chế độ trong thời gian đăng ký, khám, kiểm tra sức khỏe NVQS
+    filename: 75-2025-VBHN-BQP-Trinh-tu-thu-tuc-NVQS.pdf
+    pages: 14
+    text_pages: 14
+    text_chars: 31863
+    bytes: 666906
+    sha256: F9EB2EEAF2DF668E98226A98DE361A323FB868DE56701297FFF88771170CADB5
+    source_tier: official_ministry
+    source_page: https://mod.gov.vn/home/detail?current=true&urile=wcm%3Apath%3A%2Fmod%2Fsa-mod-site%2Fsa-ttsk%2Fsa-tt-qpan%2Fvan-ban-hop-nhat-ve-trinh-tu-thu-tuc-dang-ky-va-che-do-chinh-sach-cua-cong-dan-trong-thoi-gian-dang-ky-kham-kiem-tra-suc-khoe-nghia-vu-quan-su
+    source_url: https://bqp.vn/wcm/connect/1ad89539-29f0-431f-8fd9-548cb13b8199/VBHN75BQP.pdf?CACHEID=ROOTWORKSPACE-1ad89539-29f0-431f-8fd9-548cb13b8199-pC-s1C5&MOD=AJPERES
+
+  - id: SRC-DRUG-LISTS-2026-TEXT
+    identifier: 28/2026/NĐ-CP
+    title: Nghị định quy định các danh mục chất ma túy và tiền chất
+    filename: 28-2026-ND-CP-Danh-muc-chat-ma-tuy-va-tien-chat.pdf
+    pages: 40
+    text_pages: 40
+    text_chars: 82917
+    bytes: 1288427
+    sha256: A053FCE94B36EA3A660962BB4FAB41E5296CBF0636872895C07758BD685A6C24
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-28-2026-nd-cp-468827/62134.htm
+
+  - id: SRC-CAND-TEXT
+    identifier: 101/2025/TT-BCA
+    title: Thông tư quy định tuyển chọn và thực hiện chế độ, chính sách đối với công dân thực hiện nghĩa vụ tham gia Công an nhân dân
+    filename: 101-2025-TT-BCA-Nghia-vu-tham-gia-CAND.pdf
+    pages: 31
+    text_pages: 31
+    text_chars: 65808
+    bytes: 673645
+    sha256: DE907A5D294F8F0A2F1430D5D4E2F4FF318939C6C768C0A2DBD7F6F230F28C50
+    source_tier: official_ministry
+    source_page: https://vanban.bocongan.gov.vn/co-so-du-lieu-van-ban/thong-tu-quy-dinh-ve-tuyen-chon-va-thuc-hien-che-do-chinh-sach-doi-voi-cong-dan-thuc-hien-nghia-vu-tham-gia-cong-an-nhan-dan-1763108913
+
+  - id: SRC-SELECT-AMEND-2026-TEXT
+    identifier: 173/2026/TT-BQP
+    title: Thông tư sửa đổi các quy định về tuyển chọn và gọi công dân nhập ngũ
+    filename: 173-2026-TT-BQP-Sua-doi-tuyen-quan-va-quan-ly-quan-nhan.pdf
+    pages: 26
+    text_pages: 26
+    text_chars: 47354
+    bytes: 1400189
+    sha256: 699077AB3D004D705D6425C4D30F8632DEC449F60C4E330D957A6A7AC98BD96F
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban-dang-cong-bao/bo-quoc-phong-c17.htm
+    source_file: 2026_572_173/2026/TT-BQP.pdf
+
+  - id: SRC-LOCAL-GOV-TEXT
+    identifier: 220/2025/NĐ-CP
+    title: Nghị định sửa đổi một số nghị định trong lĩnh vực quốc phòng, quân sự khi tổ chức chính quyền địa phương hai cấp
+    filename: 220-2025-ND-CP-Chinh-quyen-dia-phuong-hai-cap-quoc-phong-quan-su.pdf
+    pages: 29
+    text_pages: 29
+    text_chars: 65303
+    bytes: 950455
+    sha256: E9A7E48852AE732A8CC9C7F65E53F02D240ABDFD440D6D807F5374E3EA094E8A
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-220-2025-nd-cp-45805/58155.htm
+
+  - id: SRC-PENALTY-TEXT
+    identifier: 218/2025/NĐ-CP
+    title: Nghị định xử phạt vi phạm hành chính trong lĩnh vực quốc phòng, cơ yếu
+    filename: 218-2025-ND-CP-Xu-phat-quoc-phong-co-yeu.pdf
+    pages: 54
+    text_pages: 54
+    text_chars: 110757
+    bytes: 850738
+    sha256: 71D8ED0B5565675321DFD929B7CBB0B3022D97E5FBD1C6CBF9A1BA7E25B5702A
+    source_tier: official_congbao
+    source_page: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-218-2025-nd-cp-45769/58092.htm
+
+  - id: SRC-REGISTRATION-ADMIN-TEXT
+    identifier: 6375/QĐ-BQP
+    title: Quyết định công bố thủ tục hành chính được sửa đổi, bổ sung lĩnh vực nghĩa vụ quân sự
+    filename: 6375-2025-QD-BQP-Thu-tuc-hanh-chinh-NVQS.pdf
+    pages: 18
+    text_pages: 18
+    text_chars: 24900
+    bytes: 1352307
+    sha256: 24A3E7AA332DFE53E1277E906846FD6FED8608E8DD0640D497752137D56117F0
+    source_tier: public_legal_document_mirror
+    source_page: https://cdn.thuvienphapluat.vn/phap-luat/2022-2/PH/101225/QD6375BQP.pdf
+    source_note: Bản PDF có text từ nguồn pháp luật công khai; cần đối chiếu bản phát hành của Bộ Quốc phòng khi xử lý tranh chấp.
+
+  - id: SRC-HEALTH-GUIDANCE-2027-TEXT
+    identifier: 8428/QY-ĐTr
+    title: Hướng dẫn sơ tuyển, khám sức khỏe thực hiện nghĩa vụ quân sự năm 2027
+    filename: 8428-2026-QY-DTr-Huong-dan-so-tuyen-kham-suc-khoe-NVQS-2027.pdf
+    pages: 6
+    text_pages: 6
+    text_chars: 13139
+    bytes: 881380
+    sha256: D6981E7150997BCC7DC134F794C37FFAF168460C174344B4D47C0C831E76A26C
+    source_tier: public_attachment_mirror
+    source_page: https://www.phapluatquansu.vn/2026/11/huong-dan-8428qy-tr-ngay-04112026-cua.html
+    source_url: https://drive.google.com/file/d/1zoSFvmzsbaNQk_Dd1lytBe_9Kprp1Ft0/view?usp=drivesdk
+    source_note: Tệp trong thư mục này trùng SHA-256 với PDF 8428 hiện có trong van-ban-nguon.

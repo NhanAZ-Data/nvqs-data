@@ -59,6 +59,10 @@ Danh mục đầy đủ, tên tệp, hash và provenance nằm trong
 ├── van-ban-md/                       # Toàn văn Markdown dành cho người đọc
 │   ├── README.md
 │   └── *.md                           # Cùng tên PDF, chỉ đổi .pdf thành .md
+├── van-ban-pdf-text/                  # PDF nguồn có lớp text để chọn/copy, không OCR
+│   ├── README.md
+│   ├── MANIFEST.yaml                  # Provenance, số trang, text và SHA-256
+│   └── *.pdf                          # Bản thay thế text; một số Công báo có nhiều phần
 ├── agent-corpus/                     # Corpus đã chuẩn hóa cho agent
 │   ├── README.md                     # Mô tả schema và cách truy vấn
 │   ├── schema.json                   # Hợp đồng dữ liệu schema v2
@@ -83,6 +87,21 @@ chữ ký, dấu, bảng và bố cục.
 Các file trong `van-ban-md/` được tạo cùng lúc với `agent-corpus/text/` từ cùng
 một nguồn text. Không chỉnh sửa riêng một bản; khi cập nhật PDF hoặc nguồn text,
 hãy chạy lại công cụ dựng corpus để hai bản Markdown không bị lệch nội dung.
+
+## PDF có thể chọn và sao chép text
+
+Thư mục [`van-ban-pdf-text/`](./van-ban-pdf-text/) chứa các bản PDF tải từ
+Công báo điện tử, cổng cơ quan nhà nước hoặc nguồn PDF pháp luật công khai đã
+kiểm tra có lớp văn bản. Các tệp được giữ nguyên PDF tải về, không OCR và không
+dựng lại từ HTML/DOCX. Vì vậy thư mục này có thể có nhiều tệp cho một văn bản
+khi Công báo phát hành văn bản qua nhiều số; xem `van-ban-pdf-text/MANIFEST.yaml`
+để biết quan hệ giữa từng tệp, nguồn tải, số trang, số ký tự và SHA-256.
+
+Không phải mọi PDF trong `van-ban-nguon/` đều có bản text PDF công khai. PDF
+105/2023/TT-BQP đã được kiểm tra ở Công báo và cổng Bộ Quốc phòng nhưng bản PDF
+tìm thấy vẫn là scan; nó không bị đưa nhầm vào thư mục PDF text. Toàn văn đọc
+máy tương ứng, nếu có, vẫn được quản lý riêng trong
+`van-ban-md/` và `agent-corpus/`.
 
 ## Dùng nhanh cho agent
 
