@@ -98,3 +98,23 @@ sources:
     source_tier: secondary_fulltext
     selector: .ccws-articles
     min_chars: 30000
+  SRC-REGISTRATION-2016:
+    url: https://vanban.org/van-ban/nghi-dinh-13-2016-nd-cp-trinh-tu-thu-tuc-dang-ky-che-do-chinh-sach-cong-dan
+    source_tier: secondary_fulltext
+    selector: article#vbd2-doc
+    min_chars: 15000
+  SRC-SELECT-BASE-2018:
+    url: https://vanban.org/van-ban/thong-tu-148-2018-tt-bqp-tuyen-chon-goi-cong-dan-nhap-ngu
+    source_tier: secondary_fulltext
+    selector: article#vbd2-doc
+    min_chars: 15000
+  SRC-GRIEVANCE-2013:
+    url: https://vanban.org/van-ban/thong-tu-218-2013-tt-bqp-khieu-nai-giai-quyet-nai-quan-doi
+    source_tier: secondary_fulltext
+    selector: article#vbd2-doc
+    min_chars: 20000
+  SRC-GRIEVANCE-AMEND-2025:
+    url: https://vanban.org/van-ban/thong-tu-45-2025-tt-bqp-sua-doi-218-2013-tt-bqp-ngay-19-nam-12-nam-2013
+    source_tier: secondary_fulltext
+    selector: article#vbd2-doc
+    min_chars: 4000

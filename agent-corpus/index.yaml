@@ -1,6 +1,6 @@
 corpus_type: nvqs_agent_corpus
 schema_version: 2
-generated_at: "2026-11-12T19:16:50+07:00"
+generated_at: "2026-11-13T11:07:26+07:00"
 language: vi
 topic: nghĩa vụ quân sự Việt Nam
 normalization_profile: "vi-legal-v2"
@@ -392,3 +392,129 @@ documents:
     download_url: "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/28-cp.signed.pdf"
     text_source_url: "https://lawplayer.com/vn/act/vn-vbpl-187050"
     text_source_page: "https://vanban.chinhphu.vn/?classid=0&docid=216717&pageid=27160"
+  - document_index: 19
+    id: "SRC-REGISTRATION-2016"
+    identifier: "13/2016/NĐ-CP"
+    title: "Nghị định quy định trình tự, thủ tục đăng ký và chế độ, chính sách của công dân trong thời gian đăng ký, khám, kiểm tra sức khỏe nghĩa vụ quân sự"
+    source_pdf: "../van-ban-nguon/13-2016-ND-CP-Trinh-tu-thu-tuc-dang-ky-kham-kiem-tra-suc-khoe-NVQS.pdf"
+    text_file: "text/SRC-REGISTRATION-2016.md"
+    reader_text_file: "../van-ban-md/13-2016-ND-CP-Trinh-tu-thu-tuc-dang-ky-kham-kiem-tra-suc-khoe-NVQS.md"
+    pdf_declared_page_count: 13
+    pdf_page_count: 13
+    text_unit_count: 1
+    text_char_count: 24756
+    nonempty_text_units: 1
+    text_source: "online_html"
+    text_source_tier: "secondary_fulltext"
+    quality_status: "ok"
+    text_normalization_profile: "vi-legal-v2"
+    source_provenance: "user_supplied_original"
+    source_page: "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-13-2016-nd-cp-19138.htm"
+    download_url: null
+    text_source_url: "https://vanban.org/van-ban/nghi-dinh-13-2016-nd-cp-trinh-tu-thu-tuc-dang-ky-che-do-chinh-sach-cong-dan"
+    text_source_page: null
+  - document_index: 20
+    id: "SRC-SELECT-BASE-2018"
+    identifier: "148/2018/TT-BQP"
+    title: "Thông tư quy định tuyển chọn và gọi công dân nhập ngũ"
+    source_pdf: "../van-ban-nguon/148-2018-TT-BQP-Tuyen-chon-goi-cong-dan-nhap-ngu.pdf"
+    text_file: "text/SRC-SELECT-BASE-2018.md"
+    reader_text_file: "../van-ban-md/148-2018-TT-BQP-Tuyen-chon-goi-cong-dan-nhap-ngu.md"
+    pdf_declared_page_count: 8
+    pdf_page_count: 8
+    text_unit_count: 1
+    text_char_count: 20826
+    nonempty_text_units: 1
+    text_source: "online_html"
+    text_source_tier: "secondary_fulltext"
+    quality_status: "ok"
+    text_normalization_profile: "vi-legal-v2"
+    source_provenance: "user_supplied_original"
+    source_page: "https://vanban.chinhphu.vn/?docid=195396&pageid=27160"
+    download_url: null
+    text_source_url: "https://vanban.org/van-ban/thong-tu-148-2018-tt-bqp-tuyen-chon-goi-cong-dan-nhap-ngu"
+    text_source_page: null
+  - document_index: 21
+    id: "SRC-GRIEVANCE-2013"
+    identifier: "218/2013/TT-BQP"
+    title: "Thông tư hướng dẫn khiếu nại và giải quyết khiếu nại trong Quân đội"
+    source_pdf: "../van-ban-nguon/218-2013-TT-BQP-Khieu-nai-giai-quyet-khieu-nai.pdf"
+    text_file: "text/SRC-GRIEVANCE-2013.md"
+    reader_text_file: "../van-ban-md/218-2013-TT-BQP-Khieu-nai-giai-quyet-khieu-nai.md"
+    pdf_declared_page_count: 15
+    pdf_page_count: 15
+    text_unit_count: 1
+    text_char_count: 33809
+    nonempty_text_units: 1
+    text_source: "online_html"
+    text_source_tier: "secondary_fulltext"
+    quality_status: "ok"
+    text_normalization_profile: "vi-legal-v2"
+    source_provenance: "user_supplied_original"
+    source_page: "https://congbao.chinhphu.vn/van-ban/thong-tu-so-218-2013-tt-bqp-1008.htm"
+    download_url: null
+    text_source_url: "https://vanban.org/van-ban/thong-tu-218-2013-tt-bqp-khieu-nai-giai-quyet-nai-quan-doi"
+    text_source_page: null
+  - document_index: 22
+    id: "SRC-GRIEVANCE-AMEND-2025"
+    identifier: "45/2025/TT-BQP"
+    title: "Thông tư sửa đổi, bổ sung một số điều của Thông tư số 218/2013/TT-BQP về khiếu nại và giải quyết khiếu nại trong Quân đội"
+    source_pdf: "../van-ban-nguon/45-2025-TT-BQP-Sua-doi-218-khieu-nai.pdf"
+    text_file: "text/SRC-GRIEVANCE-AMEND-2025.md"
+    reader_text_file: "../van-ban-md/45-2025-TT-BQP-Sua-doi-218-khieu-nai.md"
+    pdf_declared_page_count: 3
+    pdf_page_count: 3
+    text_unit_count: 1
+    text_char_count: 5015
+    nonempty_text_units: 1
+    text_source: "online_html"
+    text_source_tier: "secondary_fulltext"
+    quality_status: "ok"
+    text_normalization_profile: "vi-legal-v2"
+    source_provenance: "user_supplied_original"
+    source_page: "https://vbpl.moj.gov.vn/bocongan/Pages/vbpq-thuoctinh.aspx?ItemID=179614&Keyword="
+    download_url: null
+    text_source_url: "https://vanban.org/van-ban/thong-tu-45-2025-tt-bqp-sua-doi-218-2013-tt-bqp-ngay-19-nam-12-nam-2013"
+    text_source_page: null
+  - document_index: 23
+    id: "SRC-CAND-HEALTH-2023"
+    identifier: "62/2023/TT-BCA"
+    title: "Thông tư quy định tiêu chuẩn sức khỏe đặc thù và việc khám sức khỏe thực hiện nghĩa vụ tham gia Công an nhân dân"
+    source_pdf: "../van-ban-nguon/62-2023-TT-BCA-Tieu-chuan-suc-khoe-CAND.pdf"
+    text_file: "text/SRC-CAND-HEALTH-2023.md"
+    reader_text_file: "../van-ban-md/62-2023-TT-BCA-Tieu-chuan-suc-khoe-CAND.md"
+    pdf_declared_page_count: 105
+    pdf_page_count: 105
+    text_unit_count: 105
+    text_char_count: 193799
+    nonempty_text_units: 105
+    text_source: "pdf_extraction"
+    text_source_tier: null
+    quality_status: "ok"
+    text_normalization_profile: "vi-legal-v2"
+    source_provenance: "government_mirror"
+    source_page: "https://stc.kiengiang.gov.vn/Lists/TinTuc/Attachments/1213/nghiavuCAND.pdf"
+    download_url: "https://stc.kiengiang.gov.vn/Lists/TinTuc/Attachments/1213/nghiavuCAND.pdf"
+    text_source_url: null
+    text_source_page: null
+  - document_index: 24
+    id: "SRC-CAND-HEALTH-AMEND-2025"
+    identifier: "131/2025/TT-BCA"
+    title: "Thông tư sửa đổi, bổ sung một số điều của Thông tư số 62/2023/TT-BCA về tiêu chuẩn sức khỏe Công an nhân dân"
+    source_pdf: "../van-ban-nguon/131-2025-TT-BCA-Sua-doi-62-tieu-chuan-suc-khoe-CAND.pdf"
+    text_file: "text/SRC-CAND-HEALTH-AMEND-2025.md"
+    reader_text_file: "../van-ban-md/131-2025-TT-BCA-Sua-doi-62-tieu-chuan-suc-khoe-CAND.md"
+    pdf_declared_page_count: 75
+    pdf_page_count: 75
+    text_unit_count: 75
+    text_char_count: 122825
+    nonempty_text_units: 72
+    text_source: "pdf_extraction"
+    text_source_tier: null
+    quality_status: "ok"
+    text_normalization_profile: "vi-legal-v2"
+    source_provenance: "official_attachment"
+    source_page: "https://vbpl.moj.gov.vn/bocongan/Pages/vbpq-toanvan.aspx?ItemID=186519"
+    download_url: "https://bocongan.gov.vn/media/bca-media/library-20260121104501-387c659c-c137-47da-b2cd-e31545a298aa-thong-tu-131-2025.pdf"
+    text_source_url: null
+    text_source_page: null

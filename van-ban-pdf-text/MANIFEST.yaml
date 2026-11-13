@@ -1,6 +1,6 @@
 manifest_type: nvqs_text_pdf_alternates
 topic: nghĩa vụ quân sự Việt Nam
-downloaded_at: 2026-11-12
+downloaded_at: 2026-11-13
 timezone: Asia/Saigon
 base_directory: van-ban-pdf-text
 format: PDF
@@ -282,3 +282,44 @@ documents:
     source_page: https://www.phapluatquansu.vn/2026/11/huong-dan-8428qy-tr-ngay-04112026-cua.html
     source_url: https://drive.google.com/file/d/1zoSFvmzsbaNQk_Dd1lytBe_9Kprp1Ft0/view?usp=drivesdk
     source_note: Tệp trong thư mục này trùng SHA-256 với PDF 8428 hiện có trong van-ban-nguon.
+
+  - id: SRC-GRIEVANCE-2013-TEXT
+    identifier: 218/2013/TT-BQP
+    title: Thông tư hướng dẫn khiếu nại và giải quyết khiếu nại trong Quân đội
+    filename: 218-2013-TT-BQP-Khieu-nai-giai-quyet-khieu-nai.pdf
+    pages: 15
+    text_pages: 15
+    text_chars: 35120
+    bytes: 278001
+    sha256: BB0E322F64755D0781BA74D0640A054EF5317F390FF8B3246F7F0FDA5E8B97DE
+    source_tier: user_supplied_original
+    source_page: https://congbao.chinhphu.vn/van-ban/thong-tu-so-218-2013-tt-bqp-1008.htm
+    source_note: PDF gốc do người dùng cung cấp; toàn bộ 15 trang có lớp text trích xuất được và đã đối chiếu với nguồn Công báo.
+
+  - id: SRC-CAND-HEALTH-2023-TEXT
+    identifier: 62/2023/TT-BCA
+    title: Thông tư quy định tiêu chuẩn sức khỏe đặc thù và việc khám sức khỏe thực hiện nghĩa vụ tham gia Công an nhân dân
+    filename: 62-2023-TT-BCA-Tieu-chuan-suc-khoe-CAND.pdf
+    pages: 105
+    text_pages: 105
+    text_chars: 202020
+    bytes: 1914871
+    sha256: 91154617EFE7ADCF25467B4F3590FDF386F60633774A5B7CB66DE999A5BBC03F
+    source_tier: government_mirror
+    source_page: https://stc.kiengiang.gov.vn/Lists/TinTuc/Attachments/1213/nghiavuCAND.pdf
+    source_url: https://stc.kiengiang.gov.vn/Lists/TinTuc/Attachments/1213/nghiavuCAND.pdf
+    source_note: PDF có lớp text tải từ cổng thông tin cơ quan nhà nước; 105/105 trang có text trích xuất được.
+
+  - id: SRC-CAND-HEALTH-AMEND-2025-TEXT
+    identifier: 131/2025/TT-BCA
+    title: Thông tư sửa đổi, bổ sung một số điều của Thông tư số 62/2023/TT-BCA về tiêu chuẩn sức khỏe Công an nhân dân
+    filename: 131-2025-TT-BCA-Sua-doi-62-tieu-chuan-suc-khoe-CAND.pdf
+    pages: 75
+    text_pages: 72
+    text_chars: 130439
+    bytes: 13004011
+    sha256: 91D6FE27086F994C054523DBC445A43A6A980043F39D50BF7D0E0A6F3E2A55A4
+    source_tier: official_ministry
+    source_page: https://vbpl.moj.gov.vn/bocongan/Pages/vbpq-toanvan.aspx?ItemID=186519
+    source_url: https://bocongan.gov.vn/media/bca-media/library-20260121104501-387c659c-c137-47da-b2cd-e31545a298aa-thong-tu-131-2025.pdf
+    source_note: PDF từ cổng thông tin Bộ Công an; 72/75 trang có text, ba trang trắng được giữ nguyên theo bản gốc.

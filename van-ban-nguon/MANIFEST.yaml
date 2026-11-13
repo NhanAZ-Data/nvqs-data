@@ -1,6 +1,6 @@
 manifest_type: nvqs_source_documents
 topic: nghĩa vụ quân sự Việt Nam
-downloaded_at: 2026-11-12
+downloaded_at: 2026-11-13
 timezone: Asia/Saigon
 base_directory: van-ban-nguon
 format: PDF
@@ -149,7 +149,7 @@ documents:
     source_note: Bản toàn văn chính thức; dùng để tra Điều 332 thay cho liên kết P4 phân đoạn trong registry cũ.
 
 additional_documents:
-  description: Văn bản bổ sung đã tải từ tệp đính kèm công khai; không còn dùng bản sao từ thư mục cá nhân làm corpus.
+  description: Văn bản bổ sung đã được kiểm tra từ tệp PDF gốc hoặc tệp đính kèm công khai; bản sao trong thư mục cá nhân chỉ dùng làm staging và đối chiếu.
   corpus_directory: van-ban-nguon
   documents:
     - id: SRC-SELECT-AMEND-2025
@@ -207,3 +207,71 @@ additional_documents:
       source_page: https://vanban.chinhphu.vn/?classid=0&docid=216717&pageid=27160
       download_url: https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/28-cp.signed.pdf
       provenance: official_attachment
+
+    - id: SRC-REGISTRATION-2016
+      title: Nghị định quy định trình tự, thủ tục đăng ký và chế độ, chính sách của công dân trong thời gian đăng ký, khám, kiểm tra sức khỏe nghĩa vụ quân sự
+      identifier: 13/2016/NĐ-CP
+      filename: 13-2016-ND-CP-Trinh-tu-thu-tuc-dang-ky-kham-kiem-tra-suc-khoe-NVQS.pdf
+      pages: 13
+      bytes: 596034
+      sha256: 27872FF4334C579DEE3CF9B3B98F6161116D213A1CC90067A64BC22F7D8975A8
+      source_page: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-13-2016-nd-cp-19138.htm
+      provenance: user_supplied_original
+      source_note: Tệp PDF gốc do người dùng cung cấp; nội dung được đối chiếu với trang Công báo và nguồn toàn văn tra cứu công khai.
+
+    - id: SRC-SELECT-BASE-2018
+      title: Thông tư quy định tuyển chọn và gọi công dân nhập ngũ
+      identifier: 148/2018/TT-BQP
+      filename: 148-2018-TT-BQP-Tuyen-chon-goi-cong-dan-nhap-ngu.pdf
+      pages: 8
+      bytes: 1960131
+      sha256: 818E54A4CF8E51009C9BD73D7296FCCCB6DD19B7DE1DF720935DFFE12A755382
+      source_page: https://vanban.chinhphu.vn/?docid=195396&pageid=27160
+      provenance: user_supplied_original
+      source_note: Tệp PDF gốc do người dùng cung cấp; nội dung được đối chiếu với trang văn bản của Chính phủ và nguồn toàn văn tra cứu công khai.
+
+    - id: SRC-GRIEVANCE-2013
+      title: Thông tư hướng dẫn khiếu nại và giải quyết khiếu nại trong Quân đội
+      identifier: 218/2013/TT-BQP
+      filename: 218-2013-TT-BQP-Khieu-nai-giai-quyet-khieu-nai.pdf
+      pages: 15
+      bytes: 278001
+      sha256: BB0E322F64755D0781BA74D0640A054EF5317F390FF8B3246F7F0FDA5E8B97DE
+      source_page: https://congbao.chinhphu.vn/van-ban/thong-tu-so-218-2013-tt-bqp-1008.htm
+      provenance: user_supplied_original
+      source_note: Tệp PDF gốc do người dùng cung cấp; PDF có lớp text và được đối chiếu với Công báo.
+
+    - id: SRC-GRIEVANCE-AMEND-2025
+      title: Thông tư sửa đổi, bổ sung một số điều của Thông tư số 218/2013/TT-BQP về khiếu nại và giải quyết khiếu nại trong Quân đội
+      identifier: 45/2025/TT-BQP
+      filename: 45-2025-TT-BQP-Sua-doi-218-khieu-nai.pdf
+      pages: 3
+      bytes: 306185
+      sha256: 1C2C45A71096185D7D4ABA6A69DBD34268BEA133FDAE8F13904FA5040BE48B54
+      source_page: https://vbpl.moj.gov.vn/bocongan/Pages/vbpq-thuoctinh.aspx?ItemID=179614&Keyword=
+      provenance: user_supplied_original
+      source_note: Tệp PDF gốc do người dùng cung cấp; nguồn CSDL quốc gia xác nhận số hiệu, ngày ban hành và tình trạng còn hiệu lực.
+
+    - id: SRC-CAND-HEALTH-2023
+      title: Thông tư quy định tiêu chuẩn sức khỏe đặc thù và việc khám sức khỏe thực hiện nghĩa vụ tham gia Công an nhân dân
+      identifier: 62/2023/TT-BCA
+      filename: 62-2023-TT-BCA-Tieu-chuan-suc-khoe-CAND.pdf
+      pages: 105
+      bytes: 1914871
+      sha256: 91154617EFE7ADCF25467B4F3590FDF386F60633774A5B7CB66DE999A5BBC03F
+      source_page: https://stc.kiengiang.gov.vn/Lists/TinTuc/Attachments/1213/nghiavuCAND.pdf
+      download_url: https://stc.kiengiang.gov.vn/Lists/TinTuc/Attachments/1213/nghiavuCAND.pdf
+      provenance: government_mirror
+      source_note: Bản PDF có lớp text lấy từ cổng thông tin cơ quan nhà nước; đã kiểm tra lại số trang, lớp text và hash. Khi xử lý tranh chấp nên đối chiếu bản phát hành của Bộ Công an.
+
+    - id: SRC-CAND-HEALTH-AMEND-2025
+      title: Thông tư sửa đổi, bổ sung một số điều của Thông tư số 62/2023/TT-BCA về tiêu chuẩn sức khỏe Công an nhân dân
+      identifier: 131/2025/TT-BCA
+      filename: 131-2025-TT-BCA-Sua-doi-62-tieu-chuan-suc-khoe-CAND.pdf
+      pages: 75
+      bytes: 13004011
+      sha256: 91D6FE27086F994C054523DBC445A43A6A980043F39D50BF7D0E0A6F3E2A55A4
+      source_page: https://vbpl.moj.gov.vn/bocongan/Pages/vbpq-toanvan.aspx?ItemID=186519
+      download_url: https://bocongan.gov.vn/media/bca-media/library-20260121104501-387c659c-c137-47da-b2cd-e31545a298aa-thong-tu-131-2025.pdf
+      provenance: official_attachment
+      source_note: Tệp PDF tải từ cổng thông tin Bộ Công an; có lớp text trên các trang nội dung, ba trang trắng không có text được giữ nguyên theo bản gốc.

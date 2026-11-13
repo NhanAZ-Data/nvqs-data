@@ -6,7 +6,7 @@ và tái tạo dữ liệu.
 
 [![Schema](https://img.shields.io/badge/corpus-schema%20v2-2563eb)](./agent-corpus/README.md)
 [![Ngôn ngữ](https://img.shields.io/badge/ng%C3%B4n%20ng%E1%BB%AF-ti%E1%BA%BFng%20Vi%E1%BB%87t-dc2626)](./agent-corpus/)
-[![Phạm vi](https://img.shields.io/badge/v%C4%83n%20b%E1%BA%A3n-18-0f766e)](./van-ban-nguon/MANIFEST.yaml)
+[![Phạm vi](https://img.shields.io/badge/v%C4%83n%20b%E1%BA%A3n-24-0f766e)](./van-ban-nguon/MANIFEST.yaml)
 
 > Đây là bộ dữ liệu phục vụ nghiên cứu, tra cứu và xây dựng ứng dụng. Không phải
 > ý kiến tư vấn pháp lý. Khi dùng để giải quyết một trường hợp cụ thể, cần kiểm
@@ -29,17 +29,18 @@ nghĩa vụ quân sự.
 
 ## Phạm vi dữ liệu hiện tại
 
-Bộ nguồn hiện có **18 văn bản PDF**, gồm:
+Bộ nguồn hiện có **24 văn bản PDF**, gồm:
 
 | Nhóm | Văn bản chính |
 | --- | --- |
 | Luật NVQS | 78/2015/QH13; 98/2025/QH15; 14/2026/QH16; 133/2026/VBHN-LQ-VPQH |
-| Tuyển chọn, gọi nhập ngũ | 36/VBHN-BQP; 68/2025/TT-BQP; 173/2026/TT-BQP |
+| Tuyển chọn, gọi nhập ngũ | 36/VBHN-BQP; 148/2018/TT-BQP; 68/2025/TT-BQP; 173/2026/TT-BQP |
 | Khám và tiêu chuẩn sức khỏe | 105/2023/TT-BQP; 88/2025/VBHN-BQP; 106/2025/TT-BQP; 8428/QY-ĐTr |
 | Điều kiện loại trừ liên quan sơ tuyển | 28/2026/NĐ-CP về danh mục chất ma túy và tiền chất |
-| Đăng ký, thủ tục NVQS | 75/VBHN-BQP; 6375/QĐ-BQP |
+| Đăng ký, thủ tục NVQS | 13/2016/NĐ-CP; 75/VBHN-BQP; 6375/QĐ-BQP |
+| Khiếu nại trong Quân đội | 218/2013/TT-BQP; 45/2025/TT-BQP |
 | Quốc phòng, quân sự và xử phạt | 220/2025/NĐ-CP; 218/2025/NĐ-CP |
-| Nghĩa vụ tham gia CAND | 101/2025/TT-BCA |
+| Nghĩa vụ tham gia CAND | 62/2023/TT-BCA; 101/2025/TT-BCA; 131/2025/TT-BCA |
 | Liên quan hình sự | Bộ luật Hình sự 100/2015/QH13, bản toàn văn có Điều 332 |
 
 Danh mục đầy đủ, tên tệp, hash và provenance nằm trong
@@ -235,14 +236,14 @@ Snapshot hiện tại của corpus:
 
 | Chỉ số | Giá trị |
 | --- | ---: |
-| Văn bản | 18 |
-| Nguồn text online | 16 |
-| PDF fallback | 2 |
-| Text unit | 40 |
-| Anchor | 1.027 |
-| Tổng ký tự text | 1.437.776 |
-| PDF khớp manifest | 18/18 |
-| `quality_status: ok` | 16/16 |
+| Văn bản | 24 |
+| Nguồn text online | 20 |
+| PDF fallback | 4 |
+| Text unit | 224 |
+| Anchor | 1.220 |
+| Tổng ký tự text | 1.839.017 |
+| PDF khớp manifest | 24/24 |
+| `quality_status: ok` | 24/24 |
 
 Kiểm tra cú pháp công cụ và trạng thái Git:
 
