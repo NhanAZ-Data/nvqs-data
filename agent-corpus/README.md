@@ -1,4 +1,4 @@
-# NVQS agent corpus — schema v2
+# NVQS agent corpus schema v2
 
 Bộ dữ liệu này được tạo từ các PDF trong `../van-ban-nguon/` để agent có thể
 tra cứu, thống kê và đối chiếu văn bản về nghĩa vụ quân sự Việt Nam.
@@ -18,7 +18,7 @@ Quy trình là **online-first**:
 
 ## Schema chung
 
-Mọi record JSONL đều có:
+Mọi record JSONL đều có các trường sau.
 
 - `schema_version: 2`
 - `record_type`: `document`, `text_unit` hoặc `anchor`
@@ -29,23 +29,23 @@ Các đường dẫn trong corpus là tương đối từ thư mục `agent-corp
 
 ## Các tệp
 
-- `documents.jsonl`: một record cho mỗi văn bản. Đây là file nên đọc đầu tiên
-  để lọc theo số hiệu, nguồn, hash, chất lượng và trạng thái hiệu lực nguồn.
-- `pages.jsonl`: đơn vị text chuẩn hóa cho agent. PDF fallback có một record
-  cho mỗi trang và `page_number`; HTML/DOC online thường có một record toàn văn
+- `documents.jsonl` chứa một record cho mỗi văn bản. Đọc file này trước để lọc
+  theo số hiệu, nguồn, hash, chất lượng và trạng thái hiệu lực nguồn.
+- `pages.jsonl` chứa đơn vị text chuẩn hóa cho agent. PDF fallback có một record
+  cho mỗi trang cùng với `page_number`. HTML/DOC online thường có một record toàn văn
   với `page_number: null` vì không giữ được ánh xạ sang trang PDF.
-- `anchors.jsonl`: chỉ mục Chương, Mục, Điều, Phụ lục và Mẫu. Mỗi anchor có
+- `anchors.jsonl` lập chỉ mục Chương, Mục, Điều, Phụ lục và Mẫu. Mỗi anchor có
   `unit_id`, `unit_index`, `line_number` và `heading` để nhảy ngược về
   `pages.jsonl`.
-- `schema.json`: hợp đồng dữ liệu v2, liệt kê record type, trường bắt buộc và
+- `schema.json` định nghĩa hợp đồng dữ liệu v2, liệt kê record type, trường bắt buộc và
   các giá trị enum cho agent hoặc validator.
-- `index.yaml`: chỉ mục gọn cho người đọc và công cụ không muốn parse JSONL.
-- `text/*.md`: một file text đã chuẩn hóa cho mỗi văn bản, có JSON metadata ở
+- `index.yaml` cung cấp chỉ mục gọn cho người đọc và công cụ không muốn parse JSONL.
+- Mỗi file trong `text/*.md` chứa một văn bản đã chuẩn hóa, có JSON metadata ở
   đầu file và phần nội dung để đọc trực tiếp.
 
 ## Schema `documents.jsonl`
 
-Các trường nguồn PDF:
+Record có các trường sau để mô tả nguồn PDF.
 
 - `source_pdf`, `source_pdf_filename`
 - `pdf_declared_page_count`, `pdf_page_count`
@@ -53,7 +53,7 @@ Các trường nguồn PDF:
 - `pdf_declared_sha256`, `pdf_sha256`
 - `pdf_manifest_match.page_count`, `.byte_count`, `.sha256`, `.all`
 
-Các trường text:
+Record có các trường sau để mô tả text.
 
 - `text_source`: `online_html`, `online_doc` hoặc `pdf_extraction`
 - `text_source_url`, `text_source_page`, `text_source_tier`
@@ -66,16 +66,16 @@ PDF là bản sao trên cổng cơ quan nhà nước hoặc tệp đính kèm t�
 
 ## Trạng thái chất lượng
 
-- `ok`: đã tạo được text dùng cho đọc/tìm kiếm; vẫn nên đối chiếu PDF gốc khi
+- Trạng thái `ok` nghĩa là đã tạo được text dùng cho đọc và tìm kiếm. Vẫn nên đối chiếu PDF gốc khi
   cần trích dẫn từng chữ.
-- `page_extraction_warning`: một hoặc nhiều trang PDF có lỗi nhưng vẫn còn
+- Trạng thái `page_extraction_warning` nghĩa là một hoặc nhiều trang PDF có lỗi nhưng vẫn còn
   text.
-- `partial_or_image_only`: chỉ lấy được rất ít text, thường là chữ ký hoặc
-  phần không đáng kể của PDF scan; không dùng làm toàn văn.
-- `empty_or_image_only`: PDF không có lớp text đọc được; cần HTML/DOC khác hoặc
+- Trạng thái `partial_or_image_only` nghĩa là chỉ lấy được rất ít text, thường là chữ ký hoặc
+  phần không đáng kể của PDF scan. Không dùng làm toàn văn.
+- Trạng thái `empty_or_image_only` nghĩa là PDF không có lớp text đọc được. Cần HTML/DOC khác hoặc
   OCR có kiểm tra thủ công.
 
-`text_char_count: 0` không có nghĩa là văn bản không có nội dung; đó chỉ là
+`text_char_count: 0` không có nghĩa là văn bản không có nội dung. Nó chỉ là
 giới hạn của lớp text trong PDF.
 
 ## Ví dụ truy vấn
@@ -102,9 +102,9 @@ Get-Content .\pages.jsonl |
 `text_source_tier` phân biệt `official_html`, `official_congbao_doc`,
 `secondary_fulltext`, `official_summary_only` và
 `official_attachment_mirror_summary_only`. Không nên đánh đồng toàn văn trên
-website thứ cấp với bản ban hành chính thức; trường `source_pdf` và các hash
+website thứ cấp và bản ban hành chính thức. Trường `source_pdf` cùng các hash
 là điểm neo để kiểm tra lại.
 
-Hướng dẫn `8428/QY-ĐTr` hiện có PDF từ tệp đính kèm công khai qua trang mirror;
-chưa xác nhận được URL tệp trực tiếp công khai trên cổng Bộ Quốc phòng. Ghi
+Hướng dẫn `8428/QY-ĐTr` hiện có PDF từ tệp đính kèm công khai qua trang mirror.
+Chưa xác nhận được URL tệp trực tiếp công khai trên cổng Bộ Quốc phòng. Ghi
 chú này được giữ trong cả manifest và `documents.jsonl`.

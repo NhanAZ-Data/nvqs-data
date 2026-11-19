@@ -15,32 +15,32 @@ và tái tạo dữ liệu.
 
 ## Mục tiêu
 
-Repository này tập trung vào ba việc:
+Repository này tập trung vào ba việc.
 
-- lưu giữ các PDF nguồn đã tải, kèm SHA-256, số trang, kích thước và URL nguồn;
-- ưu tiên lấy lớp văn bản từ HTML/DOC/DOCX công khai để giảm lỗi trích xuất PDF;
-- cung cấp corpus JSONL/Markdown có cấu trúc để agent dễ tìm kiếm, thống kê và
+- Lưu giữ các PDF nguồn đã tải, kèm SHA-256, số trang, kích thước và URL nguồn.
+- Ưu tiên lấy lớp văn bản từ HTML/DOC/DOCX công khai để giảm lỗi trích xuất PDF.
+- Cung cấp corpus JSONL/Markdown có cấu trúc để agent dễ tìm kiếm, thống kê và
   trích dẫn theo văn bản, đơn vị nội dung và điều khoản.
 
-Các câu hỏi phù hợp với corpus gồm: điều kiện và quy trình tuyển quân, khám sức
-khỏe NVQS, tiêu chuẩn thể lực/BMI, hồ sơ và thủ tục, nghĩa vụ tham gia Công an
-nhân dân, xử phạt hành chính và trách nhiệm hình sự liên quan đến trốn tránh
-nghĩa vụ quân sự.
+Corpus phù hợp để trả lời các câu hỏi về điều kiện và quy trình tuyển quân,
+khám sức khỏe NVQS, tiêu chuẩn thể lực/BMI, hồ sơ và thủ tục, nghĩa vụ tham gia
+Công an nhân dân, xử phạt hành chính và trách nhiệm hình sự liên quan đến trốn
+tránh nghĩa vụ quân sự.
 
 ## Phạm vi dữ liệu hiện tại
 
-Bộ nguồn hiện có **24 văn bản PDF**, gồm:
+Bộ nguồn hiện có **24 văn bản PDF** thuộc các nhóm sau.
 
 | Nhóm | Văn bản chính |
 | --- | --- |
-| Luật NVQS | 78/2015/QH13; 98/2025/QH15; 14/2026/QH16; 133/2026/VBHN-LQ-VPQH |
-| Tuyển chọn, gọi nhập ngũ | 36/VBHN-BQP; 148/2018/TT-BQP; 68/2025/TT-BQP; 173/2026/TT-BQP |
-| Khám và tiêu chuẩn sức khỏe | 105/2023/TT-BQP; 88/2025/VBHN-BQP; 106/2025/TT-BQP; 8428/QY-ĐTr |
+| Luật NVQS | 78/2015/QH13, 98/2025/QH15, 14/2026/QH16, 133/2026/VBHN-LQ-VPQH |
+| Tuyển chọn, gọi nhập ngũ | 36/VBHN-BQP, 148/2018/TT-BQP, 68/2025/TT-BQP, 173/2026/TT-BQP |
+| Khám và tiêu chuẩn sức khỏe | 105/2023/TT-BQP, 88/2025/VBHN-BQP, 106/2025/TT-BQP, 8428/QY-ĐTr |
 | Điều kiện loại trừ liên quan sơ tuyển | 28/2026/NĐ-CP về danh mục chất ma túy và tiền chất |
-| Đăng ký, thủ tục NVQS | 13/2016/NĐ-CP; 75/VBHN-BQP; 6375/QĐ-BQP |
-| Khiếu nại trong Quân đội | 218/2013/TT-BQP; 45/2025/TT-BQP |
-| Quốc phòng, quân sự và xử phạt | 220/2025/NĐ-CP; 218/2025/NĐ-CP |
-| Nghĩa vụ tham gia CAND | 62/2023/TT-BCA; 101/2025/TT-BCA; 131/2025/TT-BCA |
+| Đăng ký, thủ tục NVQS | 13/2016/NĐ-CP, 75/VBHN-BQP, 6375/QĐ-BQP |
+| Khiếu nại trong Quân đội | 218/2013/TT-BQP, 45/2025/TT-BQP |
+| Quốc phòng, quân sự và xử phạt | 220/2025/NĐ-CP, 218/2025/NĐ-CP |
+| Nghĩa vụ tham gia CAND | 62/2023/TT-BCA, 101/2025/TT-BCA, 131/2025/TT-BCA |
 | Liên quan hình sự | Bộ luật Hình sự 100/2015/QH13, bản toàn văn có Điều 332 |
 
 Danh mục đầy đủ, tên tệp, hash và provenance nằm trong
@@ -61,7 +61,7 @@ Danh mục đầy đủ, tên tệp, hash và provenance nằm trong
 ├── van-ban-pdf-text/                  # PDF nguồn có lớp text để chọn/copy, không OCR
 │   ├── README.md
 │   ├── MANIFEST.yaml                  # Provenance, số trang, text và SHA-256
-│   └── *.pdf                          # Bản thay thế text; một số Công báo có nhiều phần
+│   └── *.pdf                          # Bản thay thế text. Một số Công báo có nhiều phần
 ├── agent-corpus/                     # Corpus đã chuẩn hóa cho agent
 │   ├── README.md                     # Mô tả schema và cách truy vấn
 │   ├── schema.json                   # Hợp đồng dữ liệu schema v2
@@ -79,12 +79,12 @@ Danh mục đầy đủ, tên tệp, hash và provenance nằm trong
 ## Đọc toàn văn Markdown
 
 Thư mục [`van-ban-md/`](./van-ban-md/) chứa một file `.md` đầy đủ cho từng văn
-bản PDF trong `van-ban-nguon/`. Đây là bản dành cho người đọc: mở trực tiếp để
-đọc toàn văn, tìm kiếm bằng `Ctrl+F`, hoặc liên kết tới PDF gốc để đối chiếu
+bản PDF trong `van-ban-nguon/`. Đây là bản dành cho người đọc. Bạn có thể mở
+trực tiếp để đọc toàn văn, tìm kiếm bằng `Ctrl+F`, hoặc đối chiếu với PDF gốc về
 chữ ký, dấu, bảng và bố cục.
 
 Các file trong `van-ban-md/` được tạo cùng lúc với `agent-corpus/text/` từ cùng
-một nguồn text. Không chỉnh sửa riêng một bản; khi cập nhật PDF hoặc nguồn text,
+một nguồn text. Không chỉnh sửa riêng một bản. Khi cập nhật PDF hoặc nguồn text,
 hãy chạy lại công cụ dựng corpus để hai bản Markdown không bị lệch nội dung.
 
 ## PDF có thể chọn và sao chép text
@@ -93,12 +93,12 @@ Thư mục [`van-ban-pdf-text/`](./van-ban-pdf-text/) chứa các bản PDF tả
 Công báo điện tử, cổng cơ quan nhà nước hoặc nguồn PDF pháp luật công khai đã
 kiểm tra có lớp văn bản. Các tệp được giữ nguyên PDF tải về, không OCR và không
 dựng lại từ HTML/DOCX. Vì vậy thư mục này có thể có nhiều tệp cho một văn bản
-khi Công báo phát hành văn bản qua nhiều số; xem `van-ban-pdf-text/MANIFEST.yaml`
+khi Công báo phát hành văn bản qua nhiều số. Xem `van-ban-pdf-text/MANIFEST.yaml`
 để biết quan hệ giữa từng tệp, nguồn tải, số trang, số ký tự và SHA-256.
 
 Không phải mọi PDF trong `van-ban-nguon/` đều có bản text PDF công khai. PDF
-105/2023/TT-BQP đã được kiểm tra ở Công báo và cổng Bộ Quốc phòng nhưng bản PDF
-tìm thấy vẫn là scan; nó không bị đưa nhầm vào thư mục PDF text. Toàn văn đọc
+105/2023/TT-BQP đã được kiểm tra ở Công báo và cổng Bộ Quốc phòng nhưng tệp PDF
+tìm được vẫn là bản scan. Vì vậy, không đưa tệp đó vào thư mục PDF text. Toàn văn đọc
 máy tương ứng, nếu có, vẫn được quản lý riêng trong
 `van-ban-md/` và `agent-corpus/`.
 
@@ -153,26 +153,26 @@ Corpus dùng ba loại record chính:
 | `pages.jsonl` | Văn bản chuẩn hóa dùng cho đọc và tìm kiếm | `unit_id`, `doc_id` |
 | `anchors.jsonl` | Chỉ mục cấu trúc như Chương, Mục, Điều, Phụ lục, Mẫu | `anchor_id`, `doc_id` |
 
-Các trường cần chú ý:
+Các trường sau giúp kiểm tra nguồn và phạm vi của text.
 
-- `text_source`: `online_html`, `online_doc` hoặc `pdf_extraction`;
-- `quality_status`: trạng thái kiểm tra lớp text;
+- `text_source`: `online_html`, `online_doc` hoặc `pdf_extraction`.
+- `quality_status`: trạng thái kiểm tra lớp text.
 - `source_pdf`, `pdf_sha256`, `pdf_manifest_match`: liên kết giữa corpus và PDF
-  nguồn;
+  nguồn.
 - `source_url`, `source_page`, `provenance`: nguồn và mức độ tin cậy cần xem khi
-  trích dẫn;
+  trích dẫn.
 - `page_number`, `char_start`, `char_end`: vị trí tương đối trong text unit,
   không mặc nhiên là số trang PDF đối với nguồn HTML/DOC toàn văn.
 
 ## Chính sách nguồn và provenance
 
-Quy trình xây dựng corpus là **online-first**:
+Quy trình xây dựng corpus theo hướng **online-first**.
 
 1. Đọc metadata và PDF nguồn từ `van-ban-nguon/MANIFEST.yaml`.
 2. Tìm lớp text công khai tương ứng trong
    [`tools/online_text_sources.yaml`](./tools/online_text_sources.yaml).
-3. Ưu tiên HTML, DOC hoặc DOCX từ cổng văn bản chính thức; với DOC/DOCX trên
-   Windows, bộ công cụ có thể dùng Microsoft Word COM để đọc nội dung.
+3. Ưu tiên HTML, DOC hoặc DOCX từ cổng văn bản chính thức. Trên Windows, bộ công cụ
+   có thể dùng Microsoft Word COM để đọc nội dung DOC/DOCX.
 4. Chỉ fallback sang `pypdf` khi nguồn online không truy cập được, không có
    selector phù hợp hoặc text lấy được quá ngắn.
 5. Giữ PDF cục bộ làm bản đối chiếu hash, số trang, chữ ký, dấu, bảng và bố cục.
@@ -181,39 +181,39 @@ Quy trình xây dựng corpus là **online-first**:
 cam kết rằng text đó thay thế được PDF gốc trong mọi tình huống. Với trích dẫn
 pháp lý, cần kiểm tra cả nội dung corpus và bản PDF nguồn.
 
-Hai trường hợp cần chú ý:
+Có hai trường hợp cần chú ý.
 
-- `6375/QĐ-BQP`: PDF được lấy từ bản sao trên cổng thông tin cơ quan nhà nước;
-  khi xử lý tranh chấp nên đối chiếu bản phát hành của Bộ Quốc phòng.
-- `8428/QY-ĐTr`: PDF hiện có từ tệp đính kèm công khai qua trang mirror; chưa xác
+- Với `6375/QĐ-BQP`, PDF được lấy từ bản sao trên cổng thông tin cơ quan nhà nước.
+  Khi xử lý tranh chấp, nên đối chiếu bản phát hành của Bộ Quốc phòng.
+- Với `8428/QY-ĐTr`, PDF hiện có từ tệp đính kèm công khai qua trang mirror. Chưa xác
   nhận được URL tệp trực tiếp công khai trên cổng Bộ Quốc phòng. Khi dùng cho
   quyết định cá nhân, cần đối chiếu bản do cơ quan quân sự ban hành.
-- `173/2026/TT-BQP` và `28/2026/NĐ-CP`: PDF lấy từ tệp đính kèm chính thức trên
-  Cổng thông tin điện tử Chính phủ; bản `.md` ưu tiên toàn văn HTML từ nguồn đọc
-  công khai để agent tìm kiếm, còn PDF vẫn là bản đối chiếu pháp lý.
-- Hướng dẫn `8428/QY-ĐTr` còn dẫn chiếu `150/2026/TT-BQP` và `6098/QĐ-BQP`;
-  tại thời điểm cập nhật chưa tìm được bản PDF công khai có thể xác minh provenance
+- Với `173/2026/TT-BQP` và `28/2026/NĐ-CP`, PDF lấy từ tệp đính kèm chính thức trên
+  Cổng thông tin điện tử Chính phủ. Bản `.md` ưu tiên toàn văn HTML từ nguồn đọc
+  công khai để agent tìm kiếm. PDF vẫn là bản đối chiếu pháp lý.
+- Hướng dẫn `8428/QY-ĐTr` còn dẫn chiếu `150/2026/TT-BQP` và `6098/QĐ-BQP`.
+  Tại thời điểm cập nhật, chưa tìm được bản PDF công khai có thể xác minh provenance
   trên Cổng văn bản Chính phủ hoặc phapluatquansu.vn, nên chưa đưa bản không kiểm
   chứng vào corpus. Đây là hai mục cần rà lại khi nguồn công khai xuất hiện.
 
 URL nguồn và ghi chú provenance được giữ trong manifest và trong metadata của
-`documents.jsonl`; không nên xóa các trường này khi tạo bản dẫn xuất.
+`documents.jsonl`. Không nên xóa các trường này khi tạo bản dẫn xuất.
 
 ## Tái tạo corpus
 
-Yêu cầu tối thiểu:
+Để tạo lại corpus, cần các công cụ sau.
 
-- Windows nếu cần trích xuất nguồn DOC/DOCX bằng Word COM;
-- Python 3;
-- các gói Python: `requests`, `beautifulsoup4`, `PyYAML`, `pypdf`.
+- Windows nếu cần trích xuất nguồn DOC/DOCX bằng Word COM.
+- Python 3.
+- Các gói Python gồm `requests`, `beautifulsoup4`, `PyYAML` và `pypdf`.
 
-Cài đặt gói:
+Cài đặt các gói bằng lệnh sau.
 
 ```powershell
 python -m pip install requests beautifulsoup4 PyYAML pypdf
 ```
 
-Tạo lại corpus từ PDF nguồn và registry online:
+Tạo lại corpus từ PDF nguồn và registry online bằng lệnh sau.
 
 ```powershell
 python .\tools\build_agent_corpus.py `
@@ -227,12 +227,12 @@ Lệnh trên đồng thời tạo/cập nhật các file đọc trực tiếp t�
 `van-ban-md/`. Có thể chỉ định thư mục khác bằng tùy chọn `--reader-output`.
 
 Lệnh trên có thể tải lại nội dung từ Internet. Kết quả phụ thuộc vào trạng thái
-nguồn online tại thời điểm chạy; sau khi tạo lại cần kiểm tra diff, hash và
+nguồn online tại thời điểm chạy. Sau khi tạo lại, cần kiểm tra diff, hash và
 chất lượng trước khi commit.
 
 ## Kiểm định hiện tại
 
-Snapshot hiện tại của corpus:
+Snapshot hiện tại của corpus có các chỉ số sau.
 
 | Chỉ số | Giá trị |
 | --- | ---: |
@@ -245,7 +245,7 @@ Snapshot hiện tại của corpus:
 | PDF khớp manifest | 24/24 |
 | `quality_status: ok` | 24/24 |
 
-Kiểm tra cú pháp công cụ và trạng thái Git:
+Chạy các lệnh sau để kiểm tra cú pháp công cụ và trạng thái Git.
 
 ```powershell
 python -m py_compile .\tools\build_agent_corpus.py
@@ -270,9 +270,9 @@ git status --short
 
 ## Nguồn tham khảo chính
 
-Một số cổng nguồn được sử dụng trong registry:
+Registry đang sử dụng một số cổng nguồn sau.
 
-- [Cổng Thông tin điện tử Chính phủ — Cơ sở dữ liệu văn bản](https://vanban.chinhphu.vn/)
+- [Cổng Thông tin điện tử Chính phủ (Cơ sở dữ liệu văn bản)](https://vanban.chinhphu.vn/)
 - [Công báo điện tử Chính phủ](https://congbao.chinhphu.vn/)
 - [Cổng thông tin điện tử Bộ Công an](https://bocongan.gov.vn/)
 - [Cổng thông tin điện tử Bộ Quốc phòng](https://mod.gov.vn/)
@@ -281,7 +281,7 @@ Một số cổng nguồn được sử dụng trong registry:
 
 Corpus đang ở trạng thái phục vụ nghiên cứu và phát triển. Repository hiện chưa
 tuyên bố một giấy phép riêng cho toàn bộ dữ liệu. Quyền đối với từng văn bản,
-PDF, bản sao và nội dung công bố thuộc về nguồn/cơ quan tương ứng; hãy kiểm tra
+PDF, bản sao và nội dung công bố thuộc về nguồn/cơ quan tương ứng. Hãy kiểm tra
 điều kiện sử dụng của nguồn trước khi phân phối lại hoặc dùng cho sản phẩm
 thương mại.
 

@@ -14,6 +14,6 @@ PDF trong [`../van-ban-nguon/`](../van-ban-nguon/).
 ## Cập nhật
 
 Các file trong thư mục này được tạo đồng thời với `../agent-corpus/text/` bằng
-`../tools/build_agent_corpus.py`. Không sửa riêng một bản Markdown; sau khi thay
+`../tools/build_agent_corpus.py`. Không sửa riêng một bản Markdown. Sau khi thay
 đổi PDF hoặc nguồn text, hãy dựng lại corpus để bản dành cho người đọc và bản
 dành cho agent cùng nội dung.
